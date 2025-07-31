@@ -19,43 +19,41 @@
 <body>
 
   <div class="top-bar">
-    <i class="fas fa-phone"></i> +91 7875774499 / +91 7620411277
-    <span class="ml-4">&nbsp;&nbsp;<i class="fas fa-envelope"></i> pmargale83@gmail.com</span>
+   <span> <i class="fas fa-phone"></i> +91 7875774499 / +91 7620411277</span>
+    <span><i class="fas fa-envelope"></i> pmargale83@gmail.com</span>
   </div>
-
   <header>
-    <div class="logo">
-    </div>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li>
-          <a href="#">Services ▾</a>
-          <ul>
-            <li><a href="#">Tour Planning</a></li>
-            <li><a href="#">Corporate Travel</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="#">Fleet ▾</a>
-          <ul>
-            <li><a href="#">Luxury Cars</a></li>
-            <li><a href="#">Mini Vans</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="#">Packages ▾</a>
-          <ul>
-            <li><a href="#">Kerala</a></li>
-            <li><a href="#">Goa</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Network</a></li>
-        <li><a href="#">Booking</a></li>
-        <li><a href="#">Gallery</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Blog</a></li>
-      </ul>
-    </nav>
-  </header>
+  <div class="logo">
+    <img src="logo.png" alt="Logo">
+  </div>
+  <nav id="mainMenu">
+    <ul class="navs">
+      <li><a href="index.php">Home</a></li>
+      <li>
+        <a href="#">About ▾</a>
+        <ul class="drops">
+          <li><a href="#">About Us</a></li>
+          <li><a href="term-condition.php">Terms & Conditions</a></li>
+          <li><a href="privacy-policy.php">Privacy Policy</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Our Fleet</a></li>
+      <li><a href="#">Packages</a></li>
+      <li><a href="#">Our Network</a></li>
+      <li><a href="#">Booking</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li>
+        <a href="#">Contact ▾</a>
+        <ul class="drops">
+          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">Enquiry</a></li>
+          <li><a href="#">Career</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Blog</a></li>
+    </ul>
+  </nav>
+  <div class="nav-toggle" id="navToggle">☰</div>
+
+</header>

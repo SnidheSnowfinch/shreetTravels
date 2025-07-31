@@ -12,6 +12,8 @@
         clickable: true,
       },
     });
+    // -------------
+    document.addEventListener('DOMContentLoaded', () => {
     const counters = document.querySelectorAll('.counter');
     let hasCounted = false;
 
@@ -32,19 +34,24 @@
       updateCount();
     };
 
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting && !hasCounted) {
-          counters.forEach(counter => runCounter(counter));
-          hasCounted = true;
-          observer.disconnect();
-        }
+    const statsElement = document.getElementById('stats');
+    if (statsElement) {
+      const observerStat = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && !hasCounted) {
+            counters.forEach(counter => runCounter(counter));
+            hasCounted = true;
+            observerStat.disconnect();
+          }
+        });
+      }, {
+        threshold: 0.3
       });
-    }, {
-      threshold: 0.3
-    });
 
-    observer.observe(document.getElementById('stats'));
+      observerStat.observe(statsElement);
+    }
+  });
+    
     // ---------------
     const slides = document.querySelectorAll('.hero-slide');
     let currentIndex = 0;
@@ -86,6 +93,34 @@
     observerNew.observe(el);
   });
 });
+// ----------
+const navToggle = document.getElementById('navToggle');
+const navMenu = document.querySelector('.navs');
+
+// Toggle mobile menu
+navToggle.addEventListener('click', () => {
+  navMenu.classList.toggle('active');
+});
+
+// Dropdown toggle on mobile
+const listItems = document.querySelectorAll('.navs > li');
+
+listItems.forEach(item => {
+  const submenu = item.querySelector('.drops');
+  if (submenu) {
+    item.addEventListener('click', e => {
+      if (window.innerWidth <= 768) {
+        e.preventDefault();
+        // Toggle show class only on this item, remove from others
+        listItems.forEach(i => {
+          if (i !== item) i.classList.remove('show');
+        });
+        item.classList.toggle('show');
+      }
+    });
+  }
+});
+
 
   </script>
 
