@@ -1,190 +1,122 @@
 <?php include 'includes/header.php' ?>
 <section class="banner-top">
-  <h1>Urbania Hire in Pune</h1>
+  <h1>Urbania On Rent in Pune</h1>
 </section>
 <div class="div-container ">
   <div class="detail-div">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
-        <img class="div-img fade-in-on-scroll" src="bootstrap/images/urbania-black.jpg" alt="">
-        <h5 class="text-left">Shree Travels: Urbania Hire in Pune</h5>
-        <p class="fw-bold">Planning a group trip or a special outing in Pune? Look no further than Shree Travels for
-          your Urbania hire needs. Whether you are organizing a family reunion, a corporate outing, or a sightseeing
-          tour, our Urbania vehicles offer unparalleled comfort, luxury, and convenience for your group. Our fleet is
-          equipped with premium features that ensure a smooth and enjoyable travel experience.</p>
+        <img class="div-img fade-in-on-scroll" src="bootstrap/images/urbania-rent.jpg" alt="">
+        <h5 class="text-left">Shree Travels: Urbania On Rent in Pune</h5>
+        <p class="fw-bold">Planning a memorable group outing or special event in Pune? Look no further than Shree Travels for your Urbania rental needs. Our Urbania vehicles are ideal for family trips, corporate events, group sightseeing tours, or any occasion that calls for comfort and luxury on the road. With spacious interiors, luxurious seating, and top-notch features, our Urbania hire service ensures that your travel experience is smooth and enjoyable. Here are the top 10 places to visit in Pune that you can explore with your Urbania rental from Shree Travels:</p>
 
         <h6 class="og">Top Places to Visit in Pune with Shree Travels</h6>
         <div class="mt-3">
           <h5>Shaniwar Wada</h5>
-          <p>Step back in time and explore Shaniwar Wada, an iconic fort that was once the majestic seat of the Peshwa
-            rulers in the 18th century. This historical marvel is renowned for its stunning architecture, including
-            intricate wooden pillars, stone carvings, and ornamental gates that tell the story of Pune’s royal past. The
-            fort’s history is steeped in grandeur and intrigue, serving as the backdrop to significant events in Indian
-            history. Though much of it has been destroyed over time, it still stands as a symbol of the Maratha Empire's
-            power and is a must-see landmark for those looking to delve into the heritage of Pune. Don’t miss the
-            captivating evening sound and light show that brings its remarkable history to life.</p>
+          <p>Explore the iconic Shaniwar Wada, once the seat of the Peshwa rulers and a symbol of Pune's royal past. This historical fortification offers visitors a fascinating glimpse into Maratha heritage, with its stunning architecture, ornate wooden pillars, and historical significance. As you wander through its gates and courtyards, you'll be transported to a time of power and intrigue. It's also a fantastic spot for photography, especially when the evening light casts a golden hue on its stone walls. Shaniwar Wada is not just a place to visit, but a journey into the heart of Pune's history.</p>
 
         </div>
         <div class="mt-3">
           <h5>Aga Khan Palace</h5>
-          <p>Aga Khan Palace is not just an architectural marvel; it is a monument of immense historical significance.
-            Built in 1892 by Sultan Muhammad Shah Aga Khan, it is a beautiful blend of Italian arches, large wooden
-            windows, and serene surroundings. The palace is most renowned for its connection to India’s independence
-            movement, as Mahatma Gandhi and his followers were imprisoned here during the Quit India Movement in 1942.
-            The lush gardens surrounding the palace offer a peaceful environment, making it an ideal retreat for
-            relaxation and reflection. Visitors can explore the palace’s museum, dedicated to Gandhi’s life and the
-            country's freedom struggle, which is both enlightening and inspiring.</p>
+          <p>Aga Khan Palace is not only a stunning example of Italianate architecture but also a site of historical importance due to its association with Mahatma Gandhi. Built in 1892, the palace features grand arches, intricate wooden windows, and lush gardens that offer a peaceful environment. It served as a place of imprisonment for Gandhi during the Indian independence movement, making it a significant symbol of India's struggle for freedom. The serene atmosphere, combined with the historical context, makes this palace a must-visit for history enthusiasts and those seeking a tranquil retreat.</p>
 
         </div>
         <div class="mt-3">
           <h5>Sinhagad Fort</h5>
-          <p>Perched high atop a hill, Sinhagad Fort is one of the most popular trekking destinations in Pune, offering
-            not only spectacular panoramic views but also a rich history. Known for the historic Battle of Sinhagad in
-            1670, where Tanaji Malusare, a Maratha warrior, fought valiantly, the fort has immense historical
-            significance. The trek to the fort is an exhilarating adventure for nature lovers and fitness enthusiasts,
-            with scenic views of the surrounding valleys and hills. Once at the top, visitors can explore the ruins of
-            the fort, including its ancient gates, cannons, and temples. The location is also known for its
-            mouth-watering local snacks, making it a popular spot for day-trippers seeking both history and adventure.
-          </p>
+          <p>For both history enthusiasts and adventure seekers, Sinhagad Fort is a must-visit destination. Located atop a hill, this fort offers stunning panoramic views of the surrounding countryside and is steeped in history, particularly due to the Battle of Sinhagad in 1670. The trek to the fort is a popular activity for nature lovers and fitness enthusiasts, while the fort itself is an ideal location for photography. With its ancient gates, temples, and scenic surroundings, Sinhagad Fort is a perfect blend of history, adventure, and natural beauty.</p>
 
         </div>
         <div class="mt-3">
           <h5>Pataleshwar Cave Temple</h5>
-          <p>Located in the heart of Pune, the Pataleshwar Cave Temple is an ancient rock-cut temple dedicated to Lord
-            Shiva, dating back to the 8th century. Carved out of solid basalt rock, the temple features remarkable
-            sculptures, intricate carvings, and a large Shiva Lingam. The serene and peaceful atmosphere inside the
-            temple offers visitors a quiet sanctuary in the middle of the bustling city. This historical site provides
-            an enriching experience for those interested in ancient Indian architecture and religious practices. The
-            temple's proximity to the busy market areas of Pune adds to its unique charm, as it offers a tranquil escape
-            into history.</p>
-
+          <p>Nestled in the bustling heart of Pune, the Pataleshwar Cave Temple is a rock-cut temple dedicated to Lord Shiva, offering visitors a serene escape. Dating back to the 8th century, the temple’s ancient architecture, complete with intricate carvings and a large Shiva Lingam, makes it a fascinating historical and spiritual site. The peaceful atmosphere inside provides a moment of calm in the midst of the city’s hustle, making it a perfect place for those interested in religious history and rock-cut architecture.</p>
         </div>
         <div class="mt-3">
           <h5>Osho Ashram</h5>
-          <p>Renowned worldwide, the Osho Ashram is a center of spirituality and meditation, attracting thousands of
-            seekers every year. Founded by the mystic Osho, the Ashram offers an oasis of peace and tranquility amidst
-            the city’s chaos. The beautiful surroundings, including landscaped gardens, ponds, and serene meditation
-            areas, create a perfect environment for introspection and self-discovery. Osho Ashram offers a variety of
-            programs, including meditation, relaxation techniques, and spiritual growth sessions. Whether you are
-            seeking peace of mind, a spiritual retreat, or simply a break from the daily grind, Osho Ashram offers a
-            transformative experience for all who visit.</p>
+          <p>Known worldwide for its serene ambiance and spiritual teachings, Osho Ashram offers a unique retreat for those seeking inner peace. The Ashram, set in tranquil surroundings, is a renowned global spiritual center where visitors can engage in various meditation sessions, spiritual activities, and wellness programs. It is a haven for individuals looking to relax, reflect, and rejuvenate. The Ashram's beautiful gardens and peaceful atmosphere provide the perfect environment for self-discovery and personal growth.</p>
         </div>
         <div class="mt-3">
           <h5>Raja Dinkar Kelkar Museum</h5>
-          <p>A must-visit for anyone interested in India’s cultural heritage, the Raja Dinkar Kelkar Museum showcases an
-            extraordinary collection of artifacts. The museum’s founder, Dr. Dinkar Kelkar, curated over 20,000 objects,
-            including musical instruments, sculptures, paintings, and textiles, each telling a unique story about
-            India’s rich cultural and artistic history. The exhibits span across various regions of India, offering an
-            eclectic collection that highlights the diversity of the country's traditions. From beautiful handcrafted
-            pottery to ancient musical instruments, the museum is a treasure trove of Indian art, history, and culture.
-          </p>
+          <p>The Raja Dinkar Kelkar Museum is a treasure trove of India’s cultural history, housing a vast array of artifacts that span centuries. The museum’s diverse collection includes sculptures, musical instruments, pottery, and textiles, each offering a window into the country’s artistic and cultural evolution. Whether you’re an art lover or history enthusiast, this museum provides an enriching experience through its fascinating displays of Indian craftsmanship and cultural heritage.</p>
         </div>
         <div class="mt-3">
           <h5>Pune Okayama Friendship Garden</h5>
-          <p>Inspired by the traditional Japanese gardens, the Pune Okayama Friendship Garden, also known as the PuLa
-            Deshpande Garden, is a beautiful place to unwind and connect with nature. The garden is designed to promote
-            peace, harmony, and tranquility, featuring meticulously landscaped pathways, serene ponds, stone bridges,
-            and lush greenery. It’s a peaceful escape from the city’s hustle and bustle, offering visitors a place for
-            quiet reflection, meditation, or a leisurely walk. The garden is also an ideal spot for photography, making
-            it a popular location for nature lovers and those seeking a moment of peace in the heart of Pune.</p>
+          <p>Inspired by traditional Japanese garden designs, the Pune Okayama Friendship Garden offers a peaceful retreat that invites visitors to slow down and appreciate nature’s beauty. With its lush greenery, serene ponds, and well-maintained paths, this garden is an ideal location for a relaxing walk, a peaceful afternoon picnic, or simply a moment of quiet reflection. The calm atmosphere makes it a perfect escape from the city's hustle, providing an oasis of peace for nature lovers and anyone seeking tranquility.</p>
         </div>
         <div class="mt-3">
           <h5>Shreemant Dagdusheth Halwai Ganapati Temple</h5>
-          <p>One of Pune’s most iconic temples, the Shreemant Dagdusheth Halwai Ganapati Temple is renowned for its
-            stunning architecture and the magnificent idol of Lord Ganesha, made of gold and precious gems. Built in
-            1893 by the famous sweet maker Dagdusheth Halwai, the temple holds deep religious and cultural significance.
-            During the Ganesh Chaturthi festival, the temple attracts thousands of devotees and visitors, who come to
-            seek blessings and witness the elaborate rituals. The temple’s intricate carvings, grand arches, and vibrant
-            decorations make it a striking example of Maratha-era architecture. It is not just a spiritual landmark but
-            a place where art, devotion, and culture beautifully converge.</p>
+          <p>Shreemant Dagdusheth Halwai Ganapati Temple is one of Pune’s most revered temples, famous for its beautiful idol of Lord Ganesh, which is adorned with gold and precious stones. The temple is not only a center of spiritual devotion but also a stunning example of Maratha-era architecture. Thousands of visitors flock to the temple annually, especially during the Ganesh Chaturthi festival, to witness its elaborate rituals and seek blessings. The temple's vibrant atmosphere, combined with its intricate architecture, makes it a place of both spiritual reverence and architectural splendor.</p>
         </div>
         <div class="mt-3">
           <h5>Fergusson College</h5>
-          <p>Founded in 1885, Fergusson College is one of Pune’s oldest and most prestigious educational institutions.
-            The college campus is a blend of colonial-era architecture, green lawns, and a peaceful ambiance, making it
-            a picturesque spot to visit. The college has played a significant role in shaping Pune’s educational
-            landscape, with many notable alumni contributing to India’s freedom struggle and academic advancement.
-            Visitors can explore the campus to appreciate its beautiful architecture and lush environment, making it a
-            relaxing destination for those interested in Pune’s academic and historical legacy.</p>
+          <p>Founded in 1885, Fergusson College is a historical landmark in Pune, renowned for its colonial-era architecture and its contribution to India's academic excellence. The college campus is a beautiful blend of lush greenery and elegant buildings, making it an ideal spot for a quiet stroll. It has educated generations of influential scholars, and its legacy in Pune’s academic history remains strong. The college is not just a place of learning but also a symbol of Pune's historical and educational significance.</p>
         </div>
         <div class="mt-3">
           <h5>Khadakwasla Dam</h5>
-          <p>Situated just outside Pune, Khadakwasla Dam is a peaceful retreat offering stunning views of the reservoir
-            and surrounding hills. It is a popular destination for nature lovers, photographers, and families seeking a
-            relaxing day by the water. The dam is known for its beautiful landscapes, especially during the monsoon
-            season when the area is lush and vibrant. The serene atmosphere and tranquil waters make it an ideal
-            location for picnics, photography, and leisurely walks. Whether you're looking to spend a quiet day in
-            nature or enjoy the views of the reservoir, Khadakwasla Dam is an excellent spot to unwind and recharge.</p>
+          <p>Located just a short drive from Pune, Khadakwasla Dam offers stunning views of the reservoir and the surrounding hills, making it a popular destination for nature lovers and families. The dam is a peaceful retreat, ideal for a relaxing day out. Whether you’re enjoying a picnic by the water, taking a leisurely walk along its banks, or simply soaking in the serene atmosphere, Khadakwasla Dam provides a perfect setting to unwind and enjoy the natural beauty of the region.</p>
         </div>
         <div class="mt-3">
           <h5>Luxury Force Urbania Hire in Pune</h5>
-          <p>For a premium travel experience in Pune, hire the Luxury Force Urbania. Designed for comfort and style, the
-            Force Urbania is ideal for group travel, corporate trips, and special events. Shree Travels offers
-            competitive rates and reliable service to ensure your journey is smooth and luxurious.</p>
+          <p>For a luxurious and comfortable journey, rent the Force Urbania in Pune. Known for its spacious interiors and modern amenities, the Force Urbania is perfect for both short and long trips. Whether it’s for corporate travel, group outings, or special events, Shree Travels ensures a smooth and elegant experience.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania Bus Hire in Pune</h5>
-          <p>Shree Travels offers Urbania buses for hire in Pune, perfect for large groups, corporate outings, and
-            tours. With spacious interiors and modern amenities, our Urbania buses provide a comfortable and convenient
-            travel option. Book today for a hassle-free journey.</p>
+          <h5>13 Seater Force Urbania on Rent in Pune</h5>
+          <p>If you're looking for a smaller group travel option, the 13-seater Force Urbania is available for rent in Pune. With its compact size and luxury features, it’s perfect for family trips, small corporate events, or private gatherings. Book your 13-seater Force Urbania today with Shree Travels.</p>
         </div>
         <div class="mt-3">
-          <h5>Force Urbania Hire for Groups in Pune</h5>
-          <p>If you’re traveling with a group, the Force Urbania offers ample space and comfort. Shree Travels provides
-            this vehicle for group travel in Pune, ensuring a relaxing journey for everyone. With its modern design and
-            reliable performance, the Force Urbania is perfect for families, friends, and corporate groups.</p>
+          <h5>17 Seater Force Urbania on Rent in Pune</h5>
+          <p>The 17-seater Force Urbania is a great choice for medium to large groups traveling together in Pune. Spacious and comfortable, it is designed to provide a smooth ride for groups on any occasion, from corporate trips to family gatherings. Rent your 17-seater Force Urbania with Shree Travels for a hassle-free journey.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania Rental Service Pune</h5>
-          <p>For corporate travel in Pune, renting the Urbania is a perfect choice. Spacious, comfortable, and equipped
-            with modern amenities, it’s ideal for business meetings, corporate events, and team outings. Shree Travels
-            provides professional drivers and reliable service for a seamless experience.</p>
+          <h5>Force Urbania on Rent for Outstation in Pune</h5>
+          <p>Shree Travels offers the Force Urbania for outstation trips from Pune. With ample space and comfortable seating, it’s the ideal vehicle for long-distance travel to destinations like Mahabaleshwar, Shirdi, and beyond. Experience a stress-free and relaxing outstation journey with a Force Urbania.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania On Rent for Corporate in Pune</h5>
-          <p>For corporate travel in Pune, renting the Urbania is a perfect choice. Spacious, comfortable, and equipped
-            with modern amenities, it’s ideal for business meetings, corporate events, and team outings. Shree Travels
-            provides professional drivers and reliable service for a seamless experience.</p>
+          <h5>Pune to Mahabaleshwar Urbania on Rent</h5>
+          <p>Rent the Urbania for your trip from Pune to Mahabaleshwar. With its spacious interiors and luxurious features, the Urbania ensures that your journey through the scenic Western Ghats is comfortable and enjoyable. Shree Travels offers competitive rates and a seamless booking process.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania Rental for Travel in Pune</h5>
-          <p>Planning to explore Pune or take a city tour? Rent the Urbania for your travel needs. With comfortable
-            seating, air conditioning, and plenty of space for luggage, the Urbania is a great choice for sightseeing or
-            long-distance travel within Pune.</p>
+          <h5>Pune to Shirdi Urbania on Rent</h5>
+          <p>Book the Urbania for your pilgrimage journey from Pune to Shirdi. With spacious seating, air conditioning, and ample space for luggage, the Urbania offers a comfortable and relaxing ride for your spiritual trip. Choose Shree Travels for an affordable and reliable Shirdi trip.</p>
         </div>
         <div class="mt-3">
-          <h5>Hire Force Urbania in Pune for Events</h5>
-          <p>Need a vehicle for an upcoming event in Pune? Hire the Force Urbania for your special occasions like
-            weddings, conferences, or parties. Spacious and luxurious, the Urbania provides the perfect setting for
-            transporting your guests comfortably to and from events.</p>
+          <h5>Pune to Lonavala Urbania on Rent</h5>
+          <p>Planning a trip to Lonavala from Pune? Rent the Urbania for a comfortable ride. The spacious vehicle offers plenty of room for your group and luggage, making it the ideal choice for trips to popular destinations like Lonavala. Shree Travels guarantees a smooth, enjoyable ride.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania Hire in Pune Contact Number</h5>
-          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania Hire in Pune. We ensure a smooth
-            and enjoyable ride for all our customers.</p>
+          <h5>Urbania on Rent in Kothrud, Pune</h5>
+          <p>For those in Kothrud, Pune, Shree Travels offers convenient Urbania rentals. Whether you need the vehicle for city travel, group outings, or corporate events, the Urbania’s luxury and spacious interiors make it the perfect choice. Book your Urbania with us for a comfortable ride around Pune.</p>
         </div>
+        <div class="mt-3">
+          <h5>Urbania On Rent In Pune Contact Number</h5>
+          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania On Rent In Pune. We ensure a smooth and enjoyable ride for all our customers.</p>
+        </div>
+       
         <table class="table table-responsive Border-key my-4 fade-in-on-scroll">
           <tbody>
             <tr class="fw-bold">
-              <td>Luxury Force Urbania Hire in Pune</td>
-              <td>- Urbania Bus Hire in Pune</td>
+              <td>Luxury Force Urbania on Rent in Pune</td>
+              <td>- 13 Seater Force Urbania on Rent in Pune</td>
             </tr>
             <tr class="fw-bold">
-              <td>Force Urbania Hire for Groups in Pune</td>
-              <td>- Urbania Rental Service Pune</td>
+              <td>17 Seater Force Urbania on Rent in Pune</td>
+              <td>- Force Urbania on Rent for Outstation in Pune</td>
             </tr>
             <tr class="fw-bold">
-              <td>Urbania On Rent for Corporate in Pune</td>
-              <td>- Urbania Rental for Travel in Pune</td>
+              <td>Pune to Mahabaleshwar Urbania on Rent</td>
+              <td>- Pune to Shirdi Urbania on Rent</td>
             </tr>
             <tr class="fw-bold">
-              <td>Hire Force Urbania in Pune for Events</td>
+              <td>Pune to Lonavala Urbania on Rent</td>
+              <td>- Urbania on Rent in Kothrud</td>
+            </tr>
+            <tr class="fw-bold">
+              <td>Pune Urbania on Rent in Hadapsar, Pune</td>
               <td></td>
             </tr>
           </tbody>
         </table>
         <div class="fade-in-on-scroll">
-          <h4>Urbania Hire in Pune Rates</h4>
+          <h4>Urbania On Rent in Pune Rates</h4>
           <h4>Rates for AC Buses</h4>
           <div class="table-responsive">
             <table class="table-og">
@@ -323,60 +255,45 @@
           </div>
         </div>
         <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for Urbania Hire in Pune</h1>
+          <h1 class="mb-3">Why Choose Shree Travels for Urbania On Rent in Pune</h1>
           <div>
             <h5 class="text-dark">Reliable and On-Time Service</h5>
-            <p>At Shree Travels, we prioritize punctuality. Whether you're traveling for business or leisure, our
-              drivers ensure timely pickups and drop-offs. With us, your Urbania hire in Pune will always be seamless
-              and on schedule.</p>
+            <p>At Shree Travels, we understand the importance of punctuality. Whether you need the Urbania on rent for a business trip or leisure travel, our drivers ensure timely pickups and drop-offs, making sure your journey in Pune is smooth and on schedule.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Comfortable and Spacious Vehicles</h5>
-            <p>We offer a range of Urbania vehicles that provide ample space and comfort for your journey. Our
-              well-maintained fleet ensures a comfortable and pleasant ride, whether it's for a short trip or
-              long-distance travel.</p>
+            <p>Our Urbania vehicles offer plenty of space and comfort for both small and large groups. With ample legroom, air conditioning, and comfortable seating, your trip around Pune will be pleasant and relaxing.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are well-trained, courteous, and experienced in handling Urbania vehicles. They are
-              knowledgeable about Pune's roads and ensure your journey is smooth, safe, and efficient, even during peak
-              traffic times.</p>
+            <p>Our drivers are highly experienced and familiar with Pune’s routes. They ensure your ride is smooth and safe while also offering you helpful guidance on the best routes, even in busy traffic.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers competitive pricing for your Urbania hire needs in Pune. We believe in transparency
-              with no hidden fees, ensuring that you get great value for your money.</p>
+            <p>Shree Travels offers competitive rates for Urbania rentals in Pune. With no hidden charges, we ensure that our pricing is transparent and affordable, providing great value for your money.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Safe and Comfortable Journey</h5>
-            <p>Your safety is our top priority. Our vehicles undergo regular maintenance and are equipped with safety
-              features such as GPS and airbags. Our experienced drivers ensure a secure and comfortable ride throughout
-              your journey.</p>
+            <p>Your safety is our top priority. All our Urbania vehicles are regularly maintained and come equipped with safety features like GPS and airbags. Our drivers ensure a secure and comfortable ride every time.</p>
 
           </div>
           <div>
             <h5 class="text-dark">24/7 Availability</h5>
-            <p>Whether it's an early morning trip or a late-night return, Shree Travels is available 24/7. You can book
-              an Urbania hire at any time, and our customer service team is always ready to assist you with your
-              queries.</p>
+            <p>Shree Travels offers Urbania rental services 24/7. Whether it’s an early morning ride or a late-night trip, we are available around the clock to cater to your travel needs.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Hassle-Free Booking Process</h5>
-            <p>Booking an Urbania with Shree Travels is easy and fast. You can book online through our website or mobile
-              app, or simply call our customer service team to arrange your ride. We strive to make your booking
-              experience as convenient as possible.</p>
+            <p>Booking an Urbania with Shree Travels is simple. You can book online via our website or mobile app, or call our customer service team for assistance. We ensure a fast and hassle-free booking experience.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Customized Tours and Travel Packages</h5>
-            <p>If you wish to explore Pune and its surroundings, Shree Travels offers customized sightseeing tours. Let
-              us know your preferences, and we’ll make sure to take you to the top destinations in and around Pune in
-              comfort.</p>
+            <p>If you're looking to explore Pune and its surroundings, Shree Travels offers customized travel packages. Our drivers will guide you to the best spots, ensuring you get the most out of your trip while enjoying the comfort of the Urbania.</p>
 
           </div>
           <div class="fade-in-on-scroll">
@@ -386,13 +303,12 @@
             <div class="accordion-item">
               <h2 class="accordion-header" id="heading1">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                  How can I book an Urbania hire in Pune with Shree Travels?
+                How can I rent an Urbania in Pune with Shree Travels?
                 </button>
               </h2>
               <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  You can easily book an Urbania hire online via our website or mobile app, or you can call our customer
-                  service team for assistance.
+                You can easily book an Urbania on rent through our website, mobile app, or by calling our customer service team for quick assistance.
                 </div>
               </div>
             </div>
@@ -402,14 +318,12 @@
               <h2 class="accordion-header" id="heading2">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapse2">
-                  Are the drivers experienced for Urbania trips?
+                  Are the drivers experienced for Urbania rentals?
                 </button>
               </h2>
               <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Yes, our drivers are highly experienced, familiar with Pune’s roads, and skilled in handling Urbania
-                  vehicles. They ensure your ride is smooth and safe.
-                </div>
+                Yes, our drivers are highly experienced and familiar with Pune’s routes. They ensure your journey is safe, smooth, and enjoyable.                </div>
               </div>
             </div>
 
@@ -418,13 +332,12 @@
               <h2 class="accordion-header" id="heading3">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapse3">
-                  What types of Urbania vehicles are available for hire?
+                  What types of Urbania vehicles are available for rent?
                 </button>
               </h2>
               <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  We offer Urbania vehicles that can accommodate both small and large groups, providing ample space for
-                  luggage and passengers. Choose the option that best fits your needs.
+                 We offer Urbania vehicles that can accommodate small and large groups. Whether you're traveling alone or with a group, our vehicles offer ample space and comfort.
                 </div>
               </div>
             </div>
@@ -439,8 +352,7 @@
               </h2>
               <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  We offer flexible payment options, including cash, credit/debit cards, and online payment via our
-                  mobile app.
+                We offer multiple payment options, including cash, credit/debit cards, and online payment via our mobile app for your convenience.
                 </div>
               </div>
             </div>
@@ -455,8 +367,7 @@
               </h2>
               <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Yes, you can book a round trip for your Urbania hire. Simply provide your return details, and we’ll
-                  make the necessary arrangements.
+                Yes, you can book a round trip. Simply share your return details when booking, and we'll take care of the rest.
                 </div>
               </div>
             </div>
@@ -466,13 +377,12 @@
               <h2 class="accordion-header" id="heading6">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapse6">
-                  Are there any extra charges for waiting time or detours?
+                  Are there any extra charges for waiting or detours?
                 </button>
               </h2>
               <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Extra charges may apply for waiting time or detours, but we ensure all charges are communicated
-                  upfront to maintain transparency.
+                Additional charges may apply for waiting time or detours, but all charges will be communicated upfront to ensure transparency.
                 </div>
               </div>
             </div>
@@ -481,13 +391,12 @@
               <h2 class="accordion-header" id="heading7">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapse7">
-                  Can I hire an Urbania for a sightseeing tour?
+                  Can I hire an Urbania for a sightseeing pune?
                 </button>
               </h2>
               <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Absolutely! Shree Travels offers customized sightseeing tours with an Urbania hire. Our drivers will
-                  ensure you visit the best attractions in Pune and surrounding areas.
+                Yes, Shree Travels offers customized sightseeing tours in Pune. Our drivers will ensure that you visit the top tourist spots comfortably.
                 </div>
               </div>
             </div>
@@ -495,13 +404,12 @@
               <h2 class="accordion-header" id="heading7">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapse8">
-                  What is the luggage allowance for an Urbania hire?
+                  What is the luggage allowance for an Urbania rental?
                 </button>
               </h2>
               <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Standard luggage can be carried in our Urbania vehicles. If you have special luggage requirements,
-                  please let us know during the booking process, and we’ll accommodate your needs.
+                Standard luggage can be carried in our Urbania vehicles. If you have extra luggage or special requirements, please inform us during booking, and we'll accommodate your needs.
                 </div>
               </div>
             </div>
@@ -538,7 +446,7 @@
           </div>
           </div>
          <div class="fade-in-on-scroll">
-         <h1 class="mt-4">Testimonial Urbania Hire in Pune for Shree Travels</h1>
+         <h1 class="mt-4">Testimonial Urbania On Rent in Pune for Shree Travels</h1>
 
 <div class="testimonial-left position-relative test-card ">
 
@@ -547,17 +455,13 @@
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide testimonial-slide">
-        <p>I hired an Urbania from Shree Travels for a corporate event, and the experience was wonderful! The
-          vehicle was spacious, clean, and comfortable. The driver was punctual, professional, and knew the
-          best routes. I highly recommend their services.</p>
-        <h4 class="text-center">Mr. Rahul Verma</h4>
+        <p>We hired an Urbania for a family trip around Pune, and it was perfect! The vehicle was comfortable, and our driver made sure we visited all the best spots in Pune. Excellent service, and I'll definitely use Shree Travels again.</p>
+        <h4 class="text-center">Mrs. Neha Desai</h4>
         <div class="stars text-center">★ ★ ★ ★ ★</div>
       </div>
       <div class="swiper-slide testimonial-slide">
-        <p>We hired an Urbania for a family trip around Pune, and it was perfect! The vehicle was very
-          comfortable, and our driver ensured we visited all the popular spots. Great experience overall, and
-          I will definitely use Shree Travels again.</p>
-        <h4 class="text-center">Ms. Priya Deshmukh</h4>
+        <p>I rented an Urbania from Shree Travels for a business event in Pune, and it was a great experience! The vehicle was spacious and clean, and the driver was punctual and professional. I highly recommend their services for anyone in need of a reliable ride.</p>
+        <h4 class="text-center">Mr. Ravi Kumar</h4>
         <div class="stars text-center">★ ★ ★ ★ ★</div>
       </div>
 
@@ -567,7 +471,7 @@
 </div>
          </div>
           <div class="contact-section mb-0 fade-in-on-scroll">
-            <h2 class="fw-bold mt-0">Urbania Hire in Pune Contact Number</h2>
+            <h2 class="fw-bold mt-0">Urbania on Rent in Pune Contact Number</h2>
             <p>For booking inquiries or any assistance, please feel free to contact us:</p>
             <div class="contact-info">
               <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
@@ -582,7 +486,7 @@
       <div class="col-lg-5 col-md-5 col-sm-12">
         <div class="sidebar fade-in-on-scroll">
           <div class="sidebar-item">
-            <a href="Urbania-Hire-in-Pune.php" class="d-flex justify-content-around align-items-center">
+            <a href="" class="d-flex justify-content-around align-items-center">
               <div class="left">
                 <img src="bootstrap/images/urbania-black.jpg" alt="">
               </div>
@@ -592,7 +496,7 @@
             </a>
           </div>
           <div class="sidebar-item">
-            <a href="Urbania-On-Rent-In-Pune.php" class="d-flex justify-content-around align-items-center">
+            <a href="" class="d-flex justify-content-around align-items-center">
               <div class="left">
                 <img src="bootstrap/images/urbania-rent.jpg" alt="">
               </div>
@@ -602,7 +506,7 @@
             </a>
           </div>
           <div class="sidebar-item">
-            <a href="Urbania-On-Rent-In-Mumbai.php" class="d-flex justify-content-around align-items-center">
+            <a href="" class="d-flex justify-content-around align-items-center">
               <div class="left">
                 <img src="bootstrap/images/urbania-mumbai.jpg" alt="">
               </div>
@@ -612,7 +516,7 @@
             </a>
           </div>
           <div class="sidebar-item">
-            <a href="Urbania-On-Rent-In-Shirdi.php" class="d-flex justify-content-around align-items-center">
+            <a href="" class="d-flex justify-content-around align-items-center">
               <div class="left">
                 <img src="bootstrap/images/urbania-shridi.webp" alt="">
               </div>
@@ -782,7 +686,7 @@
             </a>
           </div>
           <div class="sidebar-item">
-            <a href="Tempo-Traveller-On-Rent-In-Pune.php" class="d-flex justify-content-around align-items-center">
+            <a href="" class="d-flex justify-content-around align-items-center">
               <div class="left">
                 <img src="bootstrap/images/tempo-rent.jpg" alt="">
               </div>

@@ -1,3 +1,81 @@
+
+
+<footer>
+  <div>
+    <div class="row">
+
+      <!-- Services Column 1 -->
+      <div class="col-md-4">
+        <h4 class="mb-3">Service</h4>
+        <ul class="list-unstyled">
+          <li><i class="fas fa-car me-2"></i><a href="Urbania-Hire-in-Pune.php">Urbania Hire in Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Pune.php">Urbania On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Mumbai.php">Urbania On Rent In Mumbai</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Shirdi.php">Urbania On Rent In Shirdi</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Tempo Traveller On Rent For Outstation</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">17 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">20 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">13 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">15 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">10 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Urbania On Rent In Nashik</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">17 Seater Mini Bus On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">32 Seater Bus On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Luxury Mini Bus On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Luxury 32 Seater Bus On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Tata Winger On Rent in Pune</a></li>      </div>
+
+      <!-- Services Column 2 -->
+      <div class="col-md-4">
+        <h4 class="mb-3">Service</h4>
+        <ul class="list-unstyled">
+          <li><i class="fas fa-car me-2"></i><a href="#">Luxury Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">AC Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">AC Bus On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Car Rental Services In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Innova Crysta On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="Tempo-Traveller-On-Rent-In-Pune.php">Tempo Traveller On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Mahabaleshwar Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Bhimashankar Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Shirdi Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Ashtavinayak Darshan Tempo Traveller</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Tempo Traveller Hire For Corporate Picnic</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Konkan Darshan Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Jyotirlinga Darshan Tempo Traveller Hire</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Pune to Mumbai Darshan Tempo Traveller On Rent</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Tempo Traveller On Rent For Pune Darshan</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="#">Tata Winger Hire in Pune</a></li>      </div>
+
+      <!-- Contact Info -->
+      <div class="col-md-4">
+      <h4 class="mb-3">Service</h4>
+
+        <h4 class="mb-3 col-og">Shree Travels</h4>
+        <h5>Phone:</h5>
+          <i class="fas fa-phone me-2"></i> +91 7875774499<br>
+          <i class="fas fa-phone me-2"></i> +91 7620411277
+        </p>
+        <h5>Email:</h5>
+        <i class="fas fa-envelope me-2"></i> pmargale83@gmail.com</p>
+        <h5>Address:</h5>
+          Shop no 12, Barate complex near,<br>
+          Vandevi temple opp Ashok, Samrat school,<br>
+          Karve Nagar, Pune 411052
+        </p>
+        <h5>Our Location:</h5>
+        <div class="ratio ratio-16x9">
+          <iframe 
+            src="https://www.google.com/maps?q=Karve+Nagar,+Pune&output=embed"
+            width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy">
+          </iframe>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+</footer>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   <script>
 
