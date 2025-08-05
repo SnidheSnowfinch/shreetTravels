@@ -12,9 +12,9 @@
           <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Pune.php">Urbania On Rent In Pune</a></li>
           <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Mumbai.php">Urbania On Rent In Mumbai</a></li>
           <li><i class="fas fa-car me-2"></i><a href="Urbania-On-Rent-In-Shirdi.php">Urbania On Rent In Shirdi</a></li>
-          <li><i class="fas fa-car me-2"></i><a href="#">Tempo Traveller On Rent For Outstation</a></li>
-          <li><i class="fas fa-car me-2"></i><a href="#">17 Seater On Rent In Pune</a></li>
-          <li><i class="fas fa-car me-2"></i><a href="#">20 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="Tempo-Traveller-On-Rent-For-Outstation.php">Tempo Traveller On Rent For Outstation</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="17-Seater-On-Rent-In-Pune.php">17 Seater On Rent In Pune</a></li>
+          <li><i class="fas fa-car me-2"></i><a href="20-Seater-On-Rent-In-Pune.php">20 Seater On Rent In Pune</a></li>
           <li><i class="fas fa-car me-2"></i><a href="#">13 Seater On Rent In Pune</a></li>
           <li><i class="fas fa-car me-2"></i><a href="#">15 Seater On Rent In Pune</a></li>
           <li><i class="fas fa-car me-2"></i><a href="#">10 Seater On Rent In Pune</a></li>
