@@ -1,39 +1,39 @@
 <?php include 'includes/header.php' ?>
 <section class="banner-top">
-  <h1>13-Seater On Rent In Pune</h1>
+  <h1>15-Seater On Rent In Pune</h1>
 </section>
 <div class="div-container ">
   <div class="detail-div">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
-        <img class="div-img fade-in-on-scroll" src="bootstrap/images/13-seater.jpg" alt="">
-        <h5 class="text-left">Shree Travels: 13 Seater on Rent in Pune</h5>
-        <p class="fw-bold">Shree Travels offers reliable, comfortable, and affordable 13-seater rental services in Pune. Ideal for medium-sized groups, our 13-seater vehicles are perfect for family trips, corporate outings, or small group tours. We ensure a smooth and enjoyable journey with well-maintained vehicles and skilled drivers committed to your safety and convenience.</p>
+        <img class="div-img fade-in-on-scroll" src="bootstrap/images/15-seater.webp" alt="">
+        <h5 class="text-left">Shree Travels: 15 Seater on Rent in Pune</h5>
+        <p class="fw-bold">Shree Travels offers reliable, comfortable, and affordable 15-seater rental services in Pune. Ideal for medium-sized groups, our 15-seater vehicles are perfect for family trips, corporate outings, or small group tours. We ensure a smooth and enjoyable journey with well-maintained vehicles and skilled drivers committed to your safety and convenience.</p>
 
-        <h6 class="og">Top Places to Visit in Pune with Shree Travels 13 Seater</h6>
+        <h6 class="og">Top Places to Visit in Pune with Shree Travels 15 Seater</h6>
         <div class="mt-3">
           <h5>Shaniwar Wada</h5>
-          <p>Shaniwar Wada is a historic fortification in Pune, known for its grand architecture and significance in Maratha history.</p>
+          <p>Shaniwar Wada, a historical fortress in Pune, is an iconic symbol of the Maratha Empire. Built in 1732, it served as the residence of the Peshwa rulers until the early 19th century. The fort is renowned for its grand architecture, including imposing gates, intricate carvings, and towering bastions. It also has a rich history, including a tragic tale involving the assassination of Narayan Rao, the Peshwa. Visitors can explore the remnants of this majestic fort, which offers insight into the past of Pune and the Maratha Empire. The fort also hosts a popular light and sound show that brings history to life.</p>
 
         </div>
         <div class="mt-3">
           <h5>Aga Khan Palace</h5>
-          <p>A serene palace with beautiful gardens, notable for its connection to India's freedom movement.</p>
+          <p>The Aga Khan Palace, built in 1892, is a grand and majestic structure located in the heart of Pune. It holds significant historical importance due to its association with the Indian freedom struggle. The palace was used as a prison during British rule, where Mahatma Gandhi and his followers were kept under house arrest during the Quit India Movement. The palace's architecture is a blend of Italianate and Mughal styles, featuring beautifully landscaped gardens, making it a peaceful place to visit. It houses a museum that honors Mahatma Gandhi and his contributions to India's freedom.</p>
 
         </div>
         <div class="mt-3">
           <h5>Sinhagad Fort</h5>
-          <p>Sinhagad Fort is a popular trekking destination offering scenic views and a glimpse into Pune's historical heritage.</p>
+          <p>Located around 35 km from Pune, Sinhagad Fort is a must-visit for both history buffs and nature lovers. The fort played a significant role in the Maratha Empire and was the site of the famous Battle of Sinhagad in 1670. It is perched on a hilltop, offering breathtaking panoramic views of the surrounding landscape. The fort's remnants include several historical structures, including old cannons and defensive walls. It is a popular trekking destination, attracting adventure enthusiasts who enjoy the challenging climb to the top. The fort also offers a picturesque environment for picnics and a peaceful retreat amidst nature.</p>
 
         </div>
         <div class="mt-3">
           <h5>Pune Okayama Friendship Garden</h5>
-          <p>A well-maintained Japanese-style garden, perfect for leisurely walks and family outings.</p>
+          <p>The Pune-Okayama Friendship Garden, also known as the Pu La Deshpande Garden, is a Japanese-style garden located in Pune. It was created as a symbol of friendship between the city of Pune and Okayama in Japan. The garden features traditional Japanese landscaping, including meandering paths, stone lanterns, koi ponds, and beautiful cherry blossom trees. It is an ideal spot for a peaceful stroll, photography, or simply enjoying the beauty of nature. The serene atmosphere makes it a perfect escape from the hustle and bustle of city life. The garden is beautifully maintained and offers a great place to relax and unwind.</p>
 
         </div>
         <div class="mt-3">
           <h5>Raja Dinkar Kelkar Museum</h5>
-          <p>Raja Dinkar Kelkar Museum showcases a fascinating collection of artifacts from various eras, offering cultural insights.</p>
+          <p>The Raja Dinkar Kelkar Museum is an eclectic museum in Pune, showcasing an impressive collection of artifacts collected by Dr. Raja Dinkar Kelkar. The museum houses more than 20,000 items, including sculptures, paintings, musical instruments, and items used in daily life during the 18th and 19th centuries. Each exhibit tells a unique story about India's rich cultural heritage. Highlights include rare pieces of art, antique furniture, and exquisite wooden carvings. The museum provides visitors with an immersive experience of India's artistic and cultural history, making it a fascinating stop for those interested in art, history, and culture.</p>
 
         </div>
         <div class="mt-3">
@@ -43,100 +43,96 @@
         </div>
         <div class="mt-3">
           <h5>Parvati Hill</h5>
-          <p>Parvati Hill is a hilltop temple complex providing panoramic views of Pune, ideal for spiritual visits and photography.</p>
+          <p>Parvati Hill is one of Pune’s most famous landmarks, offering panoramic views of the city and surrounding areas. The hill is home to several ancient temples dedicated to Hindu deities, including Lord Shiva, Vishnu, and others. The temple complex is accessible via a steep flight of stairs, and the view from the top is a reward in itself, offering a stunning vista of Pune. The hilltop also has a small museum showcasing artifacts related to the temples and local history. Parvati Hill is a peaceful spot for spiritual visits, photography, and early morning walks, offering tranquility and a break from the city’s hustle.</p>
 
         </div>
         <div class="mt-3">
           <h5>Khadakwasla Dam</h5>
-          <p>Khadakwasla Dam is a tranquil spot with a beautiful view of the water, popular for picnics and relaxing day trips.</p>
+          <p>Khadakwasla Dam is a scenic reservoir located just outside Pune, offering beautiful views of the water and surrounding hills. It is a popular picnic destination, known for its serene environment and scenic beauty. The dam is also an excellent spot for leisurely walks along the water's edge or enjoying a peaceful day with family and friends. The picturesque setting, with lush greenery and a cool breeze, makes it a great spot for nature lovers. Visitors often enjoy taking boat rides or relaxing under the shade of trees. The dam's proximity to the city makes it an ideal quick getaway for those seeking some peace and quiet.</p>
 
         </div>
         <div class="mt-3">
           <h5>Pataleshwar Cave Temple</h5>
-          <p>Pataleshwar Cave Temple is an ancient rock-cut temple dedicated to Lord Shiva, offering a quiet retreat in the heart of the city.</p>
+          <p>Pataleshwar Cave Temple is an ancient rock-cut temple dedicated to Lord Shiva, located in the heart of Pune. The temple dates back to the 8th century and is a fine example of ancient Indian rock-cut architecture. The temple complex is carved out of a single piece of rock and houses a central shrine dedicated to Lord Shiva, surrounded by intricate carvings and sculptures. It is a peaceful and serene retreat in the city, offering visitors a chance to connect with the past while enjoying the temple’s tranquil ambiance. The temple is also a significant spiritual site for locals and tourists alike.</p>
 
         </div>
         <div class="mt-3">
           <h5>Lal Mahal</h5>
-          <p>Lal Mahal is a historic palace associated with Chhatrapati Shivaji Maharaj, known for its rich heritage and architecture.</p>
+          <p>Lal Mahal, a historically significant palace in Pune, is most famous for being the childhood residence of Chhatrapati Shivaji Maharaj, the legendary Maratha warrior king. The original palace was built in the 17th century, but it was destroyed in the 19th century and later reconstructed. The monument stands as a tribute to Shivaji Maharaj’s legacy and the Maratha Empire. It features a beautiful blend of traditional Maratha and Mughal architectural styles. Visitors can explore the reconstructed building, which includes displays showcasing Shivaji Maharaj’s life and his contributions to Indian history. Lal Mahal is a must-visit for history enthusiasts.</p>
 
         </div>
         <div class="mt-3">
           <h5>Dagdusheth Halwai Ganapati Temple</h5>
-          <p>Dagdusheth Halwai Ganapati Temple is a prominent Ganesh temple in Pune, attracting devotees and tourists alike for its divine atmosphere and stunning design.</p>
+          <p>The Dagdusheth Halwai Ganapati Temple is one of Pune’s most famous and revered temples. Dedicated to Lord Ganesha, the temple is known for its divine atmosphere and grandeur. It was established by a prominent businessman, Dagdusheth Halwai, in the 19th century, and its idol of Lord Ganesha is considered one of the most beautiful in India. The temple attracts thousands of devotees, especially during the Ganesh Chaturthi festival, which is celebrated with much pomp and grandeur. The temple’s stunning architecture, adorned with intricate carvings, adds to the spiritual experience. A visit to this temple is a must for those seeking blessings and cultural immersion.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Tempo Traveller on Rent in Pune</h5>
-          <p>Rent a 13-seater Tempo Traveller in Pune for your next group trip. Perfect for smaller groups, this vehicle offers comfort, space, and air conditioning for a smooth journey. Whether it's for a family outing, group travel, or a short city tour, Shree Travels ensures a hassle-free experience.</p>
+          <h5>15 Seater Tempo Traveller on Rent in Pune</h5>
+          <p>Rent a 15-seater Tempo Traveller in Pune for your next group trip. Perfect for family outings, corporate events, or short tours, the 15-seater Tempo Traveller offers ample space, air conditioning, and comfortable seating for a pleasant journey. Book with Shree Travels for a smooth travel experience.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus on Rent in Pune</h5>
-          <p>Shree Travels offers a 13-seater bus for rent in Pune, ideal for small group travel. Whether you need it for corporate trips, family outings, or sightseeing tours, our 13-seater buses provide a comfortable and convenient ride with modern amenities and ample space.</p>
+          <h5>15 Seater Bus on Rent in Pune</h5>
+          <p>Shree Travels offers 15-seater buses for rent in Pune, ideal for small to medium-sized groups. Whether you're planning a corporate outing, family gathering, or sightseeing tour, our 15-seater buses ensure comfort and convenience, making your journey enjoyable and stress-free.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Local Trips in Pune</h5>
-          <p>For local trips within Pune, rent a 13-seater vehicle for group travel. Whether it’s a sightseeing tour, family gathering, or a corporate event, our 13-seater vehicles are designed to ensure comfort and a smooth ride, making your local travel experience enjoyable.</p>
+          <h5>Rent 15 Seater for Group Travel in Pune</h5>
+          <p>For group travel in Pune, rent a 15-seater vehicle. Our 15-seater Tempo Travellers and buses provide comfortable seating, air conditioning, and ample space for your group, whether it's for a local trip, corporate event, or family outing. Enjoy a comfortable and smooth ride with Shree Travels.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Local Trips in Pune</h5>
-          <p>For local trips within Pune, rent a 13-seater vehicle for group travel. Whether it’s a sightseeing tour, family gathering, or a corporate event, our 13-seater vehicles are designed to ensure comfort and a smooth ride, making your local travel experience enjoyable.</p>
+          <h5>15 Seater Bus for Outstation Trips</h5>
+          <p>Traveling outstation with a group? Rent a 15-seater bus for your trip. Whether you’re heading to Mahabaleshwar, Shirdi, or any other destination, our 15-seater buses are equipped with modern amenities, offering a comfortable and enjoyable journey. Book your outstation trip with Shree Travels for a hassle-free experience.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus Rate per km in Pune</h5>
-          <p>Shree Travels offers competitive rates for 13-seater bus rentals in Pune. You only pay for the distance you travel, ensuring a transparent and cost-effective pricing structure. Whether you're booking for a few hours or a full day, our rate per kilometer offers great value for your group.</p>
+          <h5>Luxury 15 Seater Bus on Rent in Pune</h5>
+          <p>For a luxurious travel experience, rent a luxury 15-seater bus in Pune. Perfect for corporate events, weddings, or family outings, our luxury buses come with premium features, comfortable seating, air conditioning, and ample space, ensuring a high-class travel experience.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Tempo Traveller for Group Events</h5>
-          <p>For group events in Pune, the 13-seater Tempo Traveller is the perfect choice. Spacious and well-equipped, it offers comfortable seating and air conditioning, making it ideal for corporate events, weddings, family gatherings, and more. Book your 13-seater Tempo Traveller with Shree Travels today.</p>
+          <h5>15 Seater Tempo Traveller for Events</h5>
+          <p>Rent a 15-seater Tempo Traveller for events in Pune. Whether it’s a wedding, corporate gathering, or a family event, our Tempo Traveller offers the comfort and space you need for group travel. Enjoy modern amenities and a smooth journey with Shree Travels.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Outstation Trips from Pune</h5>
-          <p>Traveling outstation with a small group? Rent a 13-seater Tempo Traveller for your trip from Pune. Whether you're heading to Shirdi, Mahabaleshwar, or other destinations, this vehicle offers ample space, air conditioning, and modern amenities for a comfortable and enjoyable journey.</p>
+          <h5>Rent 15 Seater for Local Travel in Pune</h5>
+          <p>For local trips within Pune, rent a 15-seater vehicle for a comfortable group journey. Whether it's for sightseeing, corporate events, or family outings, our 15-seater Tempo Travellers and buses offer ample space and modern amenities to make your local travel enjoyable.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus Rental in Pune for Corporate Events</h5>
-          <p>For corporate events in Pune, Shree Travels offers 13-seater bus rentals. Whether it's a team outing, conference, or corporate meeting, our 13-seater buses provide comfortable and reliable transport for your team. Experience hassle-free travel with our well-maintained vehicles.</p>
+          <h5>15 Seater On Rent In Pune Contact Number</h5>
+          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient 15 Seater On Rent In Pune. We ensure a smooth and enjoyable ride for all our customers.</p>
 
         </div>
-        <div class="mt-3">
-          <h5>13 Seater On Rent In Pune Contact Number</h5>
-          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient 13 Seater On Rent In Pune. We ensure a smooth and enjoyable ride for all our customers.</p>
-
-        </div>
+       
 
 
 
         <table class="table table-responsive Border-key my-4 fade-in-on-scroll">
           <tbody>
             <tr class="fw-bold">
-              <td>13 Seater Tempo Traveller on Rent in Pune</td>
-              <td>- 13 Seater Bus on Rent in Pune</td>
+              <td>15 Seater Tempo Traveller on Rent in Pune</td>
+              <td>- 15 Seater Bus on Rent in Pune</td>
             </tr>
             <tr class="fw-bold">
-              <td>Rent 13 Seater for Local Trips in Pune</td>
-              <td>- 13 Seater Bus Rate per km in Pune</td>
+              <td>Rent 15 Seater for Local Trips in Pune</td>
+              <td>- 15 Seater Bus Rate per km in Pune</td>
             </tr>
             <tr class="fw-bold">
-              <td>13 Seater Tempo Traveller for Group Events</td>
-              <td>- Rent 13 Seater for Outstation Trips from Pune</td>
+              <td>Luxury 15 Seater Bus on Rent in Pune</td>
+              <td>-15 Seater Tempo Traveller for Events</td>
             </tr>
             <tr class="fw-bold">
-              <td>13 Seater Bus Rental in Pune for Corporate Events</td>
+              <td>Rent 15 Seater for Local Travel in Pune</td>
               <td></td>
             </tr>
 
           </tbody>
         </table>
         <div class="fade-in-on-scroll">
-          <h4>13 Seater on Rent in Pune Rates</h4>
+          <h4>15 Seater on Rent in Pune Rates</h4>
           <h4>Rates for AC Buses</h4>
           <div class="table-responsive">
             <table class="table-og">
@@ -275,59 +271,59 @@
           </div>
         </div>
         <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for 13 Seater on Rent in Pune</h1>
+          <h1 class="mb-3">Why Choose Shree Travels for 15 Seater on Rent in Pune</h1>
           <div>
             <h5 class="text-dark">Reliable and On-Time Service</h5>
-            <p>At Shree Travels, we understand the importance of punctuality. Whether you're planning a group outing or a corporate event, our drivers ensure timely pickups and drop-offs, making sure your journey in and around Pune is smooth and on schedule.</p>
+            <p>At Shree Travels, we understand the importance of timely travel for group trips. Whether you're planning a family reunion, a corporate outing, or a social event, our drivers ensure punctual pickups and drop-offs to keep your journey in and around Pune hassle-free and on time.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Spacious and Comfortable Vehicles</h5>
-            <p>Our 13-seater vehicles are designed for maximum comfort and space. With enough room for both passengers and luggage, plush seating, air conditioning, and excellent ride quality, your group will enjoy a pleasant and relaxing journey.</p>
+            <p>Our 15-seater vehicles are specifically designed for group travel, offering ample space for passengers and luggage. With air conditioning, comfortable seating, and plenty of room, you and your group will enjoy a relaxed and pleasant ride.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are highly experienced and well-trained to handle 13-seater vehicles with ease. They know the best routes in Pune and ensure your trip is smooth and safe, offering a professional and courteous experience throughout the ride.</p>
+            <p>Our drivers are skilled and well-trained in handling 15-seater vehicles. They are familiar with the best routes in Pune and ensure that your trip is smooth, safe, and efficient. You can rely on our professional drivers for a comfortable experience.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers affordable pricing for 13-seater rentals in Pune. With our transparent pricing structure, there are no hidden charges, ensuring that you get the best value for your money.</p>
+            <p>We offer affordable rental rates for 15-seater vehicles in Pune, with a focus on transparency. There are no hidden charges, and our pricing model ensures that you get the best value for your money.</p>
 ]
           </div>
           <div>
             <h5 class="text-dark">Safe and Comfortable Journey</h5>
-            <p>Your safety is our top priority. Our 13-seater vehicles are regularly maintained and equipped with safety features such as airbags, seat belts, and GPS. Our experienced drivers strictly follow safety protocols, ensuring your journey is both safe and comfortable.</p>
+            <p>Your safety is our priority. All our 15-seater vehicles are regularly maintained, equipped with modern safety features like airbags, seat belts, and GPS. Our drivers follow strict safety protocols to ensure you have a safe and comfortable journey.</p>
 
           </div>
           <div>
             <h5 class="text-dark">24/7 Availability</h5>
-            <p>Shree Travels offers 24/7 availability. Whether you're planning an early morning trip or a late-night journey, we’re ready to provide you with a 13-seater vehicle whenever you need it. Our customer service team is always available to assist with bookings and inquiries.</p>
+            <p>Whether it’s an early morning trip or a late-night return, Shree Travels is available 24/7 to accommodate your needs. You can book a 15-seater vehicle at any time, and our customer service team is always ready to assist you.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Hassle-Free Booking Process</h5>
-            <p>Booking a 13-seater with Shree Travels is quick and simple. You can easily book through our website or mobile app, or you can call our customer service team to arrange your ride. We ensure that your booking process is smooth and efficient.</p>
+            <p>Booking a 15-seater with Shree Travels is easy and convenient. You can make your booking online via our website or mobile app, or you can call our customer service team for personalized assistance. We strive to make the process as simple as possible for you.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Customized Travel Packages</h5>
-<p>Whether you’re planning a sightseeing tour, a local trip, or an outstation journey, we offer customized travel packages to suit your needs. Our drivers will ensure you have the best experience and make the most of your time.</p>
+            <p>Whether you're planning a sightseeing tour, a corporate trip, or an outstation journey, we offer customized travel packages to meet your specific needs. Our drivers will ensure your trip is tailored to your preferences.</p>
           </div>
           <div class="fade-in-on-scroll">
-            <h5 class="fs-2 text-dark">fAQS 13 Seater on Rent in Pune For Shree Travels</h5>
+            <h5 class="fs-2 text-dark">fAQS 15 Seater on Rent in Pune For Shree Travels</h5>
             <div class="accordion" id="accordionExample">
 
               <div class="accordion-item">
                 <h2 class="accordion-header" id="heading1">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                  How can I rent a 13-seater in Pune with Shree Travels?
+                  How can I rent a 15-seater in Pune with Shree Travels?
                   </button>
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                  You can rent a 13-seater easily by booking online through our website or mobile app. Alternatively, you can call our customer service team for assistance with your booking.
+                  You can rent a 15-seater vehicle easily by booking online through our website or mobile app. Alternatively, you can contact our customer service team, who will assist you with your booking.
                   </div>
                 </div>
               </div>
@@ -337,12 +333,12 @@
                 <h2 class="accordion-header" id="heading2">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse2">
-                    Are the drivers experienced for 13-seater rentals?
+                    Are the drivers experienced for 15-seater rentals?
                   </button>
                 </h2>
                 <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                  Yes, our drivers are highly skilled and experienced in driving 13-seater vehicles. They are familiar with both local and outstation routes, ensuring your journey is safe, comfortable, and efficient.
+                  Yes, our drivers are highly experienced in driving 15-seater vehicles. They are trained to handle large groups and ensure your journey is safe, comfortable, and efficient.
                   </div>
                 </div>
 
@@ -351,12 +347,12 @@
                   <h2 class="accordion-header" id="heading3">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse3">
-                      What types of 13-seater vehicles are available for rent?
+                      What types of 15-seater vehicles are available for rent?
                     </button>
                   </h2>
                   <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    We offer well-maintained, spacious, and comfortable 13-seater vehicles, perfect for group travel. These vehicles come with air conditioning, plush seating, and ample space for luggage.
+                    We offer well-maintained 15-seater vehicles designed for group travel. These vehicles are equipped with air conditioning, comfortable seating, and sufficient luggage space to make your journey enjoyable.
                     </div>
                   </div>
                 </div>
@@ -366,12 +362,12 @@
                   <h2 class="accordion-header" id="heading4">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse4">
-                      How do I pay for my 13-seater rental?
+                      How do I pay for my 15-seater rental?
                     </button>
                   </h2>
                   <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    We offer multiple payment options, including cash, credit/debit cards, and online payments through our mobile app, providing you with maximum convenience.
+                    We offer flexible payment options, including cash, credit/debit cards, and online payments via our mobile app, for your convenience.
                     </div>
                   </div>
                 </div>
@@ -381,7 +377,7 @@
                   <h2 class="accordion-header" id="heading5">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse5">
-                      Can I book a round trip with a 13-seater rental?
+                      Can I book a round trip with a 15-seater rental?
                     </button>
                   </h2>
                   <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -410,7 +406,7 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse7">
-                      Can I hire a 13-seater for sightseeing in Pune or nearby areas?
+                      Can I hire a 15-seater for sightseeing in Pune or nearby areas?
                     </button>
                   </h2>
                   <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -423,12 +419,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse8">
-                      What is the luggage allowance for a 13-seater rental?
+                      What is the luggage allowance for a 15-seater rental?
                     </button>
                   </h2>
                   <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Our 13-seater vehicles have plenty of space for standard luggage. If you have extra luggage or specific needs, please inform us at the time of booking, and we will ensure that we accommodate your requirements.
+                    Our 15-seater vehicles provide ample space for standard luggage. If you have extra luggage or specific requirements, please let us know during the booking process, and we will ensure your needs are accommodated.
                     </div>
                   </div>
                 </div>
@@ -436,12 +432,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse9">
-                      Is Shree Travels available for corporate travel with a 13-seater?
+                      Is Shree Travels available for corporate travel with a 15-seater?
                     </button>
                   </h2>
                   <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Yes, we offer corporate travel solutions, including transport for meetings, team outings, and other corporate events. Contact us to discuss tailored packages for your business.
+                    Yes, we provide corporate travel services, including transportation for business meetings, team outings, and other corporate events. Contact us to discuss customized packages for your company.
                     </div>
                   </div>
                 </div>
@@ -449,12 +445,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse10">
-                      Why should I choose Shree Travels for a 13-seater rental in Pune?
+                      Why should I choose Shree Travels for a 15-seater rental in Pune?
                     </button>
                   </h2>
                   <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Shree Travels is known for its reliable service, experienced drivers, well-maintained vehicles, and transparent pricing. We aim to provide you with a safe, comfortable, and hassle-free journey, whether you're traveling locally or outstation.
+                    Shree Travels is known for its reliable service, professional drivers, affordable pricing, and well-maintained vehicles. We ensure a safe, comfortable, and hassle-free journey, whether you’re traveling locally or for an outstation trip.
                     </div>
                   </div>
                 </div>
@@ -462,7 +458,7 @@
               </div>
             </div>
             <div class="fade-in-on-scroll">
-              <h1 class="mt-4">Testimonial 13 Seater on Rent in Pune for Shree Travels</h1>
+              <h1 class="mt-4">Testimonial 15 Seater on Rent in Pune for Shree Travels</h1>
 
               <div class="testimonial-left position-relative test-card ">
 
@@ -471,13 +467,13 @@
                 <div class="swiper mySwiper">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide testimonial-slide">
-                      <p>We rented a 13-seater for a family trip, and the service was excellent. The vehicle was comfortable and clean, and the driver was professional and friendly. I highly recommend Shree Travels for anyone looking to rent a 13-seater in Pune.</p>
-                      <h4 class="text-center">Mr. Prakash Kulkarni</h4>
+                      <p>Our team used a 15-seater for a corporate trip, and it was perfect. The vehicle was comfortable, and the driver was punctual and knowledgeable about the best routes. The entire trip was smooth and enjoyable!</p>
+                      <h4 class="text-center">Ms. Priya Mehta</h4>
                       <div class="stars text-center">★ ★ ★ ★ ★</div>
                     </div>
                     <div class="swiper-slide testimonial-slide">
-                      <p>Shree Travels provided us with a 13-seater for a corporate outing, and the experience was outstanding. The driver was punctual, and the vehicle was spacious and well-maintained. The entire team had a comfortable and enjoyable journey.</p>
-                      <h4 class="text-center">Ms. Sneha Rathi</h4>
+                      <p>We rented a 15-seater for a family wedding, and it was a fantastic experience. The vehicle was spacious and clean, and the driver was very courteous and professional. I highly recommend Shree Travels for group travel in Pune.</p>
+                      <h4 class="text-center">Mr. Rohit Patil</h4>
                       <div class="stars text-center">★ ★ ★ ★ ★</div>
                     </div>
 
@@ -487,7 +483,7 @@
               </div>
             </div>
             <div class="contact-section mb-0 fade-in-on-scroll">
-              <h2 class="fw-bold mt-0">13 Seater on Rent in Pune Contact Number</h2>
+              <h2 class="fw-bold mt-0">15 Seater on Rent in Pune Contact Number</h2>
               <p>For booking inquiries or any assistance, please feel free to contact us:</p>
               <div class="contact-info">
                 <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>

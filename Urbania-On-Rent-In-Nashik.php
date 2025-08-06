@@ -1,142 +1,138 @@
 <?php include 'includes/header.php' ?>
 <section class="banner-top">
-  <h1>13-Seater On Rent In Pune</h1>
+  <h1>Urbania on Rent in Nashik</h1>
 </section>
 <div class="div-container ">
   <div class="detail-div">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
-        <img class="div-img fade-in-on-scroll" src="bootstrap/images/13-seater.jpg" alt="">
-        <h5 class="text-left">Shree Travels: 13 Seater on Rent in Pune</h5>
-        <p class="fw-bold">Shree Travels offers reliable, comfortable, and affordable 13-seater rental services in Pune. Ideal for medium-sized groups, our 13-seater vehicles are perfect for family trips, corporate outings, or small group tours. We ensure a smooth and enjoyable journey with well-maintained vehicles and skilled drivers committed to your safety and convenience.</p>
+        <img class="div-img fade-in-on-scroll" src="bootstrap/images/urbania-nashik.jpg" alt="">
+        <h5 class="text-left">Shree Travels: Urbania on Rent in Nashik</h5>
+        <p class="fw-bold">Shree Travels offers Urbania vehicles for rent in Nashik, perfect for group travel or family outings. Urbania, known for its spacious and comfortable seating, is ideal for exploring Nashik scenic beauty and cultural landmarks. Our vehicles are well-maintained and driven by experienced professionals to ensure a safe and enjoyable journey.</p>
 
-        <h6 class="og">Top Places to Visit in Pune with Shree Travels 13 Seater</h6>
+        <h6 class="og">Top Places to Visit in Nashik with Shree Travels Urbania</h6>
         <div class="mt-3">
-          <h5>Shaniwar Wada</h5>
-          <p>Shaniwar Wada is a historic fortification in Pune, known for its grand architecture and significance in Maratha history.</p>
+          <h5>Trimbakeshwar Temple</h5>
+          <p>Trimbakeshwar Temple, one of the twelve Jyotirlingas of Lord Shiva, is a revered pilgrimage destination located near Nashik. The temple is known for its distinct architectural style and the spiritual ambiance surrounding it. The temple's sanctum enshrines a unique Shiva Lingam with three faces representing Lord Brahma, Vishnu, and Shiva. The temple is also situated near the source of the Godavari River, adding to its religious and cultural significance. Devotees visit to seek blessings and perform rituals, especially during the Kumbh Mela, which is held in Nashik every 12 years.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Aga Khan Palace</h5>
-          <p>A serene palace with beautiful gardens, notable for its connection to India's freedom movement.</p>
+          <h5>Sula Vineyards</h5>
+          <p>Sula Vineyards, located in the heart of Nashik’s wine-producing region, is one of India’s most famous wineries. Wine lovers can tour the lush vineyard, learn about the winemaking process, and taste a wide variety of wines. The picturesque vineyard offers a perfect retreat to relax while enjoying the serene views of the surrounding hills and beautiful landscapes. Sula Vineyards also hosts the popular SulaFest, an annual music and wine festival, which adds to its charm as a must-visit destination for wine enthusiasts.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Sinhagad Fort</h5>
-          <p>Sinhagad Fort is a popular trekking destination offering scenic views and a glimpse into Pune's historical heritage.</p>
+          <h5>Panchavati</h5>
+          <p>Panchavati, a significant spot in Hindu mythology, is located in Nashik and holds great religious importance. It is believed to be the place where Lord Rama, during his exile, resided and where he met Shabari, a saintly woman. The area is home to several temples, including the famous Kalaram Temple, as well as the sacred Panchavati area, which contains five banyan trees, said to represent the five Pandavas. Panchavati is a popular destination for religious pilgrims and those interested in exploring the mythological and spiritual heritage of India.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Pune Okayama Friendship Garden</h5>
-          <p>A well-maintained Japanese-style garden, perfect for leisurely walks and family outings.</p>
+          <h5>Pandavleni Caves</h5>
+          <p>Pandavleni Caves, located on the Trivashmi Hills near Nashik, are a group of ancient Buddhist rock-cut caves dating back to the 1st century BCE. These caves are renowned for their exceptional architecture and are believed to have been used by Buddhist monks for meditation and residence. The caves feature intricate carvings, inscriptions, and sculptures depicting various Buddhist symbols. A visit to these caves offers a fascinating glimpse into the early Buddhist way of life and an opportunity to experience tranquility in the midst of natural beauty.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Raja Dinkar Kelkar Museum</h5>
-          <p>Raja Dinkar Kelkar Museum showcases a fascinating collection of artifacts from various eras, offering cultural insights.</p>
+          <h5>Kalaram Temple</h5>
+          <p>The Kalaram Temple, dedicated to Lord Rama, is an 18th-century architectural gem located in Panchavati, Nashik. The temple is known for its grand black stone structure, which houses the idol of Lord Rama along with his brother Laxman and wife Sita. Devotees from all over the country visit this temple, especially during the festival of Ramnavami, to offer prayers. The temple is an important pilgrimage site and serves as a symbol of Nashik's rich religious and cultural history.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Katraj Snake Park</h5>
-          <p>Located in the scenic Katraj hills, the Katraj Snake Park is a unique park dedicated to snake conservation. It is home to various species of snakes, reptiles, and other wildlife. The park is an educational and fun experience for nature lovers, offering an opportunity to learn about the importance of wildlife conservation.</p>
+          <h5>Muktidham Temple</h5>
+          <p>Muktidham Temple in Nashik is an exquisite structure known for its marble walls and intricate carvings. The temple is dedicated to Lord Krishna and is designed to represent various religious beliefs from Hindu mythology. The walls of the temple feature detailed carvings from the Mahabharata and Ramayana, making it an architectural marvel. The temple also has replicas of 12 Jyotirlingas, drawing devotees from all over. Muktidham is a peaceful place of worship and meditation, offering a unique spiritual experience.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Parvati Hill</h5>
-          <p>Parvati Hill is a hilltop temple complex providing panoramic views of Pune, ideal for spiritual visits and photography.</p>
+          <h5>Anjneri Hill</h5>
+          <p>Anjneri Hill, located near Nashik, is known as the birthplace of Lord Hanuman. It is a popular trekking spot that offers spectacular panoramic views of the surrounding valleys and hills. The hill is dotted with temples and has a serene atmosphere, making it an ideal place for meditation and spiritual reflection. Visitors can hike to the summit, where a temple dedicated to Lord Hanuman stands, and enjoy the peaceful surroundings. Anjneri Hill is also a great place for nature lovers and those seeking adventure.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Khadakwasla Dam</h5>
-          <p>Khadakwasla Dam is a tranquil spot with a beautiful view of the water, popular for picnics and relaxing day trips.</p>
+          <h5>Saptashrungi</h5>
+          <p>Saptashrungi is a revered hilltop temple dedicated to Goddess Saptashrungi Nivasini, located near Nashik. The temple is perched atop a hill with over 500 steps leading to the top, where the goddess’s idol is enshrined. The breathtaking views of the surrounding mountains and valleys make the pilgrimage journey even more memorable. Saptashrungi is an important religious site for devotees, particularly during the Navratri festival, and is one of the most visited temples in Maharashtra.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Pataleshwar Cave Temple</h5>
-          <p>Pataleshwar Cave Temple is an ancient rock-cut temple dedicated to Lord Shiva, offering a quiet retreat in the heart of the city.</p>
+          <h5>Someshwar Waterfall</h5>
+          <p>The Someshwar Waterfall, located near Nashik, is a beautiful natural wonder that offers a serene escape into nature. The waterfall is surrounded by lush greenery and provides an ideal spot for picnics, photography, and relaxation. The area is known for its tranquility, with the sound of the cascading water creating a peaceful ambiance. The Someshwar Waterfall is especially popular during the monsoon season when the water flow is at its peak, making it a great spot for nature lovers and adventure seekers alike.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Lal Mahal</h5>
-          <p>Lal Mahal is a historic palace associated with Chhatrapati Shivaji Maharaj, known for its rich heritage and architecture.</p>
+          <h5>Ramkund</h5>
+          <p>Ramkund, located in Panchavati, Nashik, is one of the most sacred bathing ghats in India. It is believed to be the spot where Lord Rama took his holy dip during his exile. Devotees come from all over to bathe in the sacred waters of Ramkund, as it is believed to cleanse sins and bring spiritual peace. The ghat is surrounded by temples and is a bustling place of religious activity, especially during important festivals like Kumbh Mela. Ramkund is a significant part of Nashik’s rich spiritual heritage and is a must-visit for pilgrims.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Dagdusheth Halwai Ganapati Temple</h5>
-          <p>Dagdusheth Halwai Ganapati Temple is a prominent Ganesh temple in Pune, attracting devotees and tourists alike for its divine atmosphere and stunning design.</p>
+          <h5>Luxury Force Urbania on Rent in Nashik</h5>
+          <p>Rent a luxury Force Urbania in Nashik for a premium travel experience. Ideal for group trips, corporate outings, or special events, this vehicle offers comfort, style, and modern amenities to ensure a smooth and luxurious journey. Book with Shree Travels for a first-class travel experience.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Tempo Traveller on Rent in Pune</h5>
-          <p>Rent a 13-seater Tempo Traveller in Pune for your next group trip. Perfect for smaller groups, this vehicle offers comfort, space, and air conditioning for a smooth journey. Whether it's for a family outing, group travel, or a short city tour, Shree Travels ensures a hassle-free experience.</p>
+          <h5>Urbania Bus Hire in Nashik</h5>
+          <p>Shree Travels offers Urbania bus hire in Nashik for group travel. Whether you’re planning a corporate trip, family gathering, or event, our Urbania buses provide ample space, comfort, and modern amenities for a seamless and enjoyable journey. Rent an Urbania bus today for your group travel needs.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus on Rent in Pune</h5>
-          <p>Shree Travels offers a 13-seater bus for rent in Pune, ideal for small group travel. Whether you need it for corporate trips, family outings, or sightseeing tours, our 13-seater buses provide a comfortable and convenient ride with modern amenities and ample space.</p>
+          <h5>13 Seater Force Urbania on Rent in Nashik</h5>
+          <p>For small groups, rent a 13-seater Force Urbania in Nashik. This vehicle offers comfortable seating, air conditioning, and enough space for a comfortable ride. Perfect for family trips, corporate outings, or sightseeing tours, the 13-seater Force Urbania ensures a pleasant and smooth journey.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Local Trips in Pune</h5>
-          <p>For local trips within Pune, rent a 13-seater vehicle for group travel. Whether it’s a sightseeing tour, family gathering, or a corporate event, our 13-seater vehicles are designed to ensure comfort and a smooth ride, making your local travel experience enjoyable.</p>
+          <h5>17 Seater Force Urbania on Rent in Nashik</h5>
+          <p>Rent a 17-seater Force Urbania in Nashik for group travel. Whether it's a corporate trip, family outing, or event, this vehicle offers ample space and comfort for all passengers. Enjoy modern amenities, air conditioning, and a smooth ride on your group journey in Nashik and beyond.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Local Trips in Pune</h5>
-          <p>For local trips within Pune, rent a 13-seater vehicle for group travel. Whether it’s a sightseeing tour, family gathering, or a corporate event, our 13-seater vehicles are designed to ensure comfort and a smooth ride, making your local travel experience enjoyable.</p>
+          <h5>Nashik to Shirdi Urbania on Rent</h5>
+          <p>Planning a trip from Nashik to Shirdi? Rent an Urbania vehicle for a comfortable and convenient journey. Whether it's a family pilgrimage or a group tour, the Urbania ensures a smooth ride with ample space and modern amenities, making your trip to Shirdi enjoyable.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus Rate per km in Pune</h5>
-          <p>Shree Travels offers competitive rates for 13-seater bus rentals in Pune. You only pay for the distance you travel, ensuring a transparent and cost-effective pricing structure. Whether you're booking for a few hours or a full day, our rate per kilometer offers great value for your group.</p>
+          <h5>Nashik to Lonavala Urbania on Rent</h5>
+          <p>Travel from Nashik to Lonavala in style by renting an Urbania. Ideal for group trips, this vehicle offers comfortable seating, air conditioning, and ample luggage space. Enjoy a pleasant journey to Lonavala with Shree Travels, ensuring your group travels in comfort and style.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Tempo Traveller for Group Events</h5>
-          <p>For group events in Pune, the 13-seater Tempo Traveller is the perfect choice. Spacious and well-equipped, it offers comfortable seating and air conditioning, making it ideal for corporate events, weddings, family gatherings, and more. Book your 13-seater Tempo Traveller with Shree Travels today.</p>
+          <h5>Nashik Urbania Rental for Groups</h5>
+          <p>For group travel in Nashik, rent an Urbania for a comfortable journey. Whether you’re going on a sightseeing tour, corporate event, or family outing, the Urbania offers spacious seating and modern amenities, ensuring a smooth and enjoyable experience for your entire group.</p>
 
         </div>
         <div class="mt-3">
-          <h5>Rent 13 Seater for Outstation Trips from Pune</h5>
-          <p>Traveling outstation with a small group? Rent a 13-seater Tempo Traveller for your trip from Pune. Whether you're heading to Shirdi, Mahabaleshwar, or other destinations, this vehicle offers ample space, air conditioning, and modern amenities for a comfortable and enjoyable journey.</p>
+          <h5>Urbania on Rent for Nashik Temples</h5>
+          <p>Rent an Urbania for your temple tour in Nashik. Whether you're visiting the famous Trimbakeshwar Temple, Kalaram Sansthan, or other sacred spots, our Urbania vehicles provide ample space, air conditioning, and a comfortable ride to make your spiritual journey more enjoyable.</p>
 
         </div>
         <div class="mt-3">
-          <h5>13 Seater Bus Rental in Pune for Corporate Events</h5>
-          <p>For corporate events in Pune, Shree Travels offers 13-seater bus rentals. Whether it's a team outing, conference, or corporate meeting, our 13-seater buses provide comfortable and reliable transport for your team. Experience hassle-free travel with our well-maintained vehicles.</p>
+          <h5>Urbania On Rent In Nashik Contact Number</h5>
+          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania On Rent In Nashik. We ensure a smooth and enjoyable ride for all our customers.</p>
 
         </div>
-        <div class="mt-3">
-          <h5>13 Seater On Rent In Pune Contact Number</h5>
-          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient 13 Seater On Rent In Pune. We ensure a smooth and enjoyable ride for all our customers.</p>
-
-        </div>
+       
 
 
 
         <table class="table table-responsive Border-key my-4 fade-in-on-scroll">
           <tbody>
             <tr class="fw-bold">
-              <td>13 Seater Tempo Traveller on Rent in Pune</td>
-              <td>- 13 Seater Bus on Rent in Pune</td>
+              <td>Luxury Force Urbania on Rent in Nashik</td>
+              <td>-Urbania Bus Hire in Nashik</td>
             </tr>
             <tr class="fw-bold">
-              <td>Rent 13 Seater for Local Trips in Pune</td>
-              <td>- 13 Seater Bus Rate per km in Pune</td>
+              <td>13 Seater Force Urbania on Rent in Nashik</td>
+              <td>-17 Seater Force Urbania on Rent in Nashik</td>
             </tr>
             <tr class="fw-bold">
-              <td>13 Seater Tempo Traveller for Group Events</td>
-              <td>- Rent 13 Seater for Outstation Trips from Pune</td>
+              <td>Nashik to Shirdi Urbania on Rent</td>
+              <td>-Nashik to Lonavala Urbania on Rent</td>
             </tr>
             <tr class="fw-bold">
-              <td>13 Seater Bus Rental in Pune for Corporate Events</td>
-              <td></td>
+              <td>Nashik Urbania Rental for Groups</td>
+              <td>-Urbania on Rent for Nashik Temples</td>
             </tr>
 
           </tbody>
         </table>
         <div class="fade-in-on-scroll">
-          <h4>13 Seater on Rent in Pune Rates</h4>
+          <h4>Urbania on Rent in Nashik Rates</h4>
           <h4>Rates for AC Buses</h4>
           <div class="table-responsive">
             <table class="table-og">
@@ -275,59 +271,58 @@
           </div>
         </div>
         <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for 13 Seater on Rent in Pune</h1>
+          <h1 class="mb-3">Why Choose Shree Travels for Urbania on Rent in Nashik</h1>
           <div>
             <h5 class="text-dark">Reliable and On-Time Service</h5>
-            <p>At Shree Travels, we understand the importance of punctuality. Whether you're planning a group outing or a corporate event, our drivers ensure timely pickups and drop-offs, making sure your journey in and around Pune is smooth and on schedule.</p>
+            <p>At Shree Travels, we understand the importance of punctuality when traveling. Whether you're heading out for a corporate event, a family gathering, or a special occasion, our drivers ensure timely pickups and drop-offs, making your Urbania rental in Nashik smooth and hassle-free.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Spacious and Comfortable Vehicles</h5>
-            <p>Our 13-seater vehicles are designed for maximum comfort and space. With enough room for both passengers and luggage, plush seating, air conditioning, and excellent ride quality, your group will enjoy a pleasant and relaxing journey.</p>
+            <p>Our Urbania vehicles are designed to offer maximum comfort for larger groups. With ample seating, air conditioning, and plenty of luggage space, your group will enjoy a relaxing and enjoyable ride, no matter the distance.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are highly experienced and well-trained to handle 13-seater vehicles with ease. They know the best routes in Pune and ensure your trip is smooth and safe, offering a professional and courteous experience throughout the ride.</p>
+            <p>Our drivers are experienced in handling Urbania vehicles and are knowledgeable about Nashik’s routes and local areas. They ensure a safe, smooth, and pleasant ride, taking the most efficient routes to your destination.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers affordable pricing for 13-seater rentals in Pune. With our transparent pricing structure, there are no hidden charges, ensuring that you get the best value for your money.</p>
-]
+            <p>We offer affordable rental rates for 15-seater vehicles in Pune, with a focus on transparency. There are no hidden charges, and our pricing model ensures that you get the best value for your money.</p>
           </div>
           <div>
             <h5 class="text-dark">Safe and Comfortable Journey</h5>
-            <p>Your safety is our top priority. Our 13-seater vehicles are regularly maintained and equipped with safety features such as airbags, seat belts, and GPS. Our experienced drivers strictly follow safety protocols, ensuring your journey is both safe and comfortable.</p>
+            <p>We offer competitive pricing for Urbania rentals in Nashik, with a focus on transparency. There are no hidden charges, and our pricing model ensures that you get the best value for your money.</p>
 
           </div>
           <div>
             <h5 class="text-dark">24/7 Availability</h5>
-            <p>Shree Travels offers 24/7 availability. Whether you're planning an early morning trip or a late-night journey, we’re ready to provide you with a 13-seater vehicle whenever you need it. Our customer service team is always available to assist with bookings and inquiries.</p>
+            <p>Whether it’s an early morning trip or a late-night return, Shree Travels is available to accommodate your schedule. You can book an Urbania rental at any time, and our customer service team is always ready to assist you with your booking needs.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Hassle-Free Booking Process</h5>
-            <p>Booking a 13-seater with Shree Travels is quick and simple. You can easily book through our website or mobile app, or you can call our customer service team to arrange your ride. We ensure that your booking process is smooth and efficient.</p>
+            <p>Booking an Urbania with Shree Travels is easy and convenient. You can book online through our website or mobile app, or you can call our customer service team for quick and personalized assistance. We ensure a seamless booking experience for you.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Customized Travel Packages</h5>
-<p>Whether you’re planning a sightseeing tour, a local trip, or an outstation journey, we offer customized travel packages to suit your needs. Our drivers will ensure you have the best experience and make the most of your time.</p>
+            <p>Whether you're planning a sightseeing tour, a corporate trip, or an outstation journey, we offer customized travel packages to suit your needs. Our experienced drivers will take you to the best tourist spots in Nashik and surrounding areas.</p>
           </div>
           <div class="fade-in-on-scroll">
-            <h5 class="fs-2 text-dark">fAQS 13 Seater on Rent in Pune For Shree Travels</h5>
+            <h5 class="fs-2 text-dark">fAQS Urbania on Rent in Nashik For Shree Travels</h5>
             <div class="accordion" id="accordionExample">
 
               <div class="accordion-item">
                 <h2 class="accordion-header" id="heading1">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                  How can I rent a 13-seater in Pune with Shree Travels?
+                  How can I rent an Urbania in Nashik with Shree Travels?
                   </button>
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                  You can rent a 13-seater easily by booking online through our website or mobile app. Alternatively, you can call our customer service team for assistance with your booking.
+                  You can rent an Urbania by booking online via our website or mobile app, or by calling our customer service team for assistance.
                   </div>
                 </div>
               </div>
@@ -337,12 +332,12 @@
                 <h2 class="accordion-header" id="heading2">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse2">
-                    Are the drivers experienced for 13-seater rentals?
+                    Are the drivers experienced for Urbania rentals in Nashik?
                   </button>
                 </h2>
                 <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                  Yes, our drivers are highly skilled and experienced in driving 13-seater vehicles. They are familiar with both local and outstation routes, ensuring your journey is safe, comfortable, and efficient.
+                  Yes, our drivers are experienced in driving Urbania vehicles and are familiar with the best routes in Nashik. They are trained to provide a safe and comfortable experience for all passengers.
                   </div>
                 </div>
 
@@ -351,12 +346,12 @@
                   <h2 class="accordion-header" id="heading3">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse3">
-                      What types of 13-seater vehicles are available for rent?
+                      What types of Urbania vehicles are available for rent in Nashik?
                     </button>
                   </h2>
                   <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    We offer well-maintained, spacious, and comfortable 13-seater vehicles, perfect for group travel. These vehicles come with air conditioning, plush seating, and ample space for luggage.
+                    We offer well-maintained Urbania vehicles with spacious seating, air conditioning, and ample luggage space, designed for larger groups traveling together.
                     </div>
                   </div>
                 </div>
@@ -366,12 +361,12 @@
                   <h2 class="accordion-header" id="heading4">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse4">
-                      How do I pay for my 13-seater rental?
+                      How do I pay for my Urbania rental in Nashik?
                     </button>
                   </h2>
                   <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    We offer multiple payment options, including cash, credit/debit cards, and online payments through our mobile app, providing you with maximum convenience.
+                    We offer flexible payment options, including cash, credit/debit cards, and online payments through our mobile app, for your convenience.
                     </div>
                   </div>
                 </div>
@@ -381,12 +376,12 @@
                   <h2 class="accordion-header" id="heading5">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse5">
-                      Can I book a round trip with a 13-seater rental?
+                      Can I book a round trip with an Urbania rental?
                     </button>
                   </h2>
                   <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Yes, you can easily book a round trip. Just provide the return details when making the booking, and we will handle the rest.
+                    Yes, you can book a round trip with an Urbania vehicle. Just provide the return details during your booking, and we will handle the rest.
                     </div>
                   </div>
                 </div>
@@ -401,7 +396,7 @@
                   </h2>
                   <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Additional charges may apply for waiting times or detours, depending on your specific trip. However, all extra charges will be communicated upfront for full transparency.
+                    Additional charges may apply for waiting time or detours, depending on the specifics of your trip. However, all extra charges will be communicated upfront to ensure transparency in pricing.
                     </div>
                   </div>
                 </div>
@@ -410,12 +405,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse7">
-                      Can I hire a 13-seater for sightseeing in Pune or nearby areas?
+                      What is the luggage allowance for an Urbania rental?
                     </button>
                   </h2>
                   <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Yes, we offer customized sightseeing tours in Pune. Our drivers will ensure you visit the best attractions, including landmarks like Shaniwar Wada, Aga Khan Palace, Sinhagad Fort, and more.
+                    Our Urbania vehicles offer sufficient space for standard luggage. If you have extra luggage or specific requirements, please inform us during the booking process, and we will accommodate your needs.
                     </div>
                   </div>
                 </div>
@@ -423,12 +418,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse8">
-                      What is the luggage allowance for a 13-seater rental?
+                      Is Shree Travels available for corporate travel with an Urbania?
                     </button>
                   </h2>
                   <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Our 13-seater vehicles have plenty of space for standard luggage. If you have extra luggage or specific needs, please inform us at the time of booking, and we will ensure that we accommodate your requirements.
+                    Yes, we offer corporate travel services, including transportation for business meetings, events, and team outings. Contact us for tailored corporate travel packages.
                     </div>
                   </div>
                 </div>
@@ -436,12 +431,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse9">
-                      Is Shree Travels available for corporate travel with a 13-seater?
+                      Is Shree Travels available for corporate travel with a 15-seater?
                     </button>
                   </h2>
                   <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Yes, we offer corporate travel solutions, including transport for meetings, team outings, and other corporate events. Contact us to discuss tailored packages for your business.
+                    Yes, we provide corporate travel services, including transportation for business meetings, team outings, and other corporate events. Contact us to discuss customized packages for your company.
                     </div>
                   </div>
                 </div>
@@ -449,12 +444,12 @@
                   <h2 class="accordion-header" id="heading7">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                       data-bs-target="#collapse10">
-                      Why should I choose Shree Travels for a 13-seater rental in Pune?
+                      Why should I choose Shree Travels for an Urbania rental in Nashik?
                     </button>
                   </h2>
                   <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    Shree Travels is known for its reliable service, experienced drivers, well-maintained vehicles, and transparent pricing. We aim to provide you with a safe, comfortable, and hassle-free journey, whether you're traveling locally or outstation.
+                    Shree Travels is known for its reliable service, professional drivers, affordable pricing, and well-maintained vehicles. We provide a comfortable, safe, and hassle-free journey for larger groups in Nashik.
                     </div>
                   </div>
                 </div>
@@ -462,7 +457,7 @@
               </div>
             </div>
             <div class="fade-in-on-scroll">
-              <h1 class="mt-4">Testimonial 13 Seater on Rent in Pune for Shree Travels</h1>
+              <h1 class="mt-4">Testimonial Urbania on Rent in Nashik for Shree Travels</h1>
 
               <div class="testimonial-left position-relative test-card ">
 
@@ -471,13 +466,13 @@
                 <div class="swiper mySwiper">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide testimonial-slide">
-                      <p>We rented a 13-seater for a family trip, and the service was excellent. The vehicle was comfortable and clean, and the driver was professional and friendly. I highly recommend Shree Travels for anyone looking to rent a 13-seater in Pune.</p>
-                      <h4 class="text-center">Mr. Prakash Kulkarni</h4>
+                      <p>I rented an Urbania for a family trip to Nashik, and it was a great experience! The vehicle was spacious, comfortable, and well-maintained. The driver was courteous and professional, making our journey smooth and enjoyable.</p>
+                      <h4 class="text-center">Mr. Vikram Deshmukh</h4>
                       <div class="stars text-center">★ ★ ★ ★ ★</div>
                     </div>
                     <div class="swiper-slide testimonial-slide">
-                      <p>Shree Travels provided us with a 13-seater for a corporate outing, and the experience was outstanding. The driver was punctual, and the vehicle was spacious and well-maintained. The entire team had a comfortable and enjoyable journey.</p>
-                      <h4 class="text-center">Ms. Sneha Rathi</h4>
+                      <p>Our corporate team rented an Urbania for an off-site meeting in Nashik. The vehicle was perfect for our group, and the driver ensured we had a comfortable and timely journey. Highly recommend Shree Travels for group rentals!</p>
+                      <h4 class="text-center">Ms. Anjali Patil</h4>
                       <div class="stars text-center">★ ★ ★ ★ ★</div>
                     </div>
 
@@ -487,7 +482,7 @@
               </div>
             </div>
             <div class="contact-section mb-0 fade-in-on-scroll">
-              <h2 class="fw-bold mt-0">13 Seater on Rent in Pune Contact Number</h2>
+              <h2 class="fw-bold mt-0">Urbania on Rent in Nashik Contact Number</h2>
               <p>For booking inquiries or any assistance, please feel free to contact us:</p>
               <div class="contact-info">
                 <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
