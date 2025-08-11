@@ -38,11 +38,11 @@
         </ul>
       </li>
       <li><a href="#">Services</a></li>
-      <li><a href="#">Our Fleet</a></li>
-      <li><a href="#">Packages</a></li>
-      <li><a href="#">Our Network</a></li>
+      <li><a href="our-fleet.php">Our Fleet</a></li>
+      <li><a href="packages.php">Packages</a></li>
+      <li><a href="">Our Network</a></li>
       <li><a href="#">Booking</a></li>
-      <li><a href="#">Gallery</a></li>
+      <li><a href="gallery.php">Gallery</a></li>
       <li>
         <a href="#">Contact ▾</a>
         <ul class="drops">

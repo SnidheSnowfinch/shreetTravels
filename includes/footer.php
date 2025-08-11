@@ -198,6 +198,13 @@ listItems.forEach(item => {
     });
   }
 });
+function openCustomLightbox(src) {
+    document.getElementById('customLightboxImg').src = src;
+    document.getElementById('customLightbox').style.display = 'flex';
+}
+function closeCustomLightbox() {
+    document.getElementById('customLightbox').style.display = 'none';
+}
 
   </script>
 

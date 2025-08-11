@@ -75,7 +75,7 @@ nav ul li ul {
   padding: 5px 0;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
   display: none;
-  min-width: 180px;
+  width: max-content;
   border-radius: 6px;
   z-index: 1000;
   transition: all 0.3s ease;
@@ -100,6 +100,12 @@ nav ul li ul li a:hover {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .fleet-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
   .main-img {
     height: 220px !important;}
   .nav-toggle {
@@ -215,6 +221,11 @@ nav ul li ul li a:hover {
 }
 
 @media (max-width: 768px) {
+  .custom-lightbox img {
+    max-width: 90%;
+  max-height: 90%;
+    border-radius: 10px;
+  }
   nav ul {
     flex-wrap: wrap;
     justify-content: center;
@@ -924,9 +935,33 @@ header {
   padding: 20px;
   max-width: 400px;
 }
+.custom-gallery-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 15px;
+  padding: 20px;
+}
 }
 
 @media(min-width: 768px) and (max-width: 900px)  {
+  .custom-lightbox img {
+    object-fit: cover;
+    width: 50%;
+  height: 70%;
+    border-radius: 10px;
+  }
+  .custom-gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    padding: 20px;
+  }
+  .fleet-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
   .side-contact-section {
     margin: 20px;
     border: 2px dotted orangered;
@@ -984,7 +1019,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
+  padding: 10px 20px;
   background: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: sticky;
@@ -1144,6 +1179,24 @@ header {
 }
 
 @media (min-width: 901px) {
+  .custom-lightbox img {
+    object-fit: cover;
+    width: 50%;
+  height: 70%;
+    border-radius: 10px;
+  }
+  .custom-gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    padding: 20px;
+  }
+  .fleet-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
   .div-img{
     height: 370px;
     object-fit: cover;
@@ -1212,7 +1265,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
+  padding: 10px 20px;
   background: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: sticky;
@@ -1495,6 +1548,11 @@ header {
   cursor: pointer; background-color: rgb(255, 65, 1); padding: 10px; border-radius: 8px; color: white;
   border: none;
 }
+.table-row:hover{
+  background-color: rgb(242, 242, 242);
+
+
+}
 .accordion-header{
   font-family: 'Arial', sans-serif;
   font-weight: 600 !important;
@@ -1553,4 +1611,94 @@ footer ul li  a{
 }
 .fa-car {
   color: #fe7524;
+}
+.fleet-card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  /* gap: 20px; */
+}
+
+.fleet-card {
+  border: 3px solid #fe7524;
+  /* border-radius: 8px; */
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.fleet-card:hover img {
+  transform: scale(1.05);
+}
+.category{
+  font-weight: 600;
+  font-size: 18px;
+  color: #fe7524;
+}
+.fleet-title{
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 23px;
+  font-family: "Source Serif Pro", serif;
+
+}
+.fleet-card-content{
+  padding: 25px;
+}
+
+.custom-gallery-item {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.custom-gallery-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.custom-gallery-item:hover img {
+  transform: scale(1.1);
+}
+.custom-gallery-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(0 0 0 / 76%);;
+  opacity: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+}
+.custom-gallery-item:hover .custom-gallery-overlay {
+  opacity: 1;
+}
+.custom-plus-icon {
+  font-size: 40px;
+  color: white;
+}
+.custom-lightbox {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(0 0 0 / 76%);;
+
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.custom-lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
 }
