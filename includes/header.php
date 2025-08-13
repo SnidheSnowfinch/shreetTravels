@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
  
 </head>
 
@@ -46,8 +47,8 @@
       <li>
         <a href="#">Contact ▾</a>
         <ul class="drops">
-          <li><a href="#">Contact Us</a></li>
-          <li><a href="#">Enquiry</a></li>
+          <li><a href="contact-us.php">Contact Us</a></li>
+          <li><a href="enquiry.php">Enquiry</a></li>
           <li><a href="#">Career</a></li>
         </ul>
       </li>

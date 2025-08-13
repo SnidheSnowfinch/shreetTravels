@@ -1,5 +1,12 @@
 
-
+<a href="#" target="_blank" class="whatsapp-float">
+    <i class="fab fa-whatsapp"></i>
+    <span>WhatsApp <br><small>+91 7875774499</small></span>
+</a>
+<a href="#" target="_blank" class="call-float">
+    <i class="bi bi-telephone-fill"></i>
+    <span>Call Us  <br><small>+91 7875774499</small></span>
+</a>
 <footer>
   <div>
     <div class="row">

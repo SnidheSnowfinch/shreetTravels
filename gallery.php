@@ -78,7 +78,6 @@
     </div>
 </div>
 
-<!-- Lightbox -->
 <div class="custom-lightbox" id="customLightbox">
     <span class="custom-lightbox-close" onclick="closeCustomLightbox()">&times;</span>
     <img id="customLightboxImg" src="" alt="Full Screen">

@@ -103,7 +103,7 @@
   </div>
   <div class="slider-wrapper fade-in-on-scroll">
     <div class="slider-track">
-      <!-- Cards -->
+     
       <a href="">
         <div class="card">
           <img src="bootstrap/images/travel-17seater.webp" alt="Car 1">

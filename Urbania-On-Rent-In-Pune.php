@@ -299,7 +299,6 @@
           <div class="fade-in-on-scroll">
           <h5 class="fs-2 text-dark">fAQS Urbania Hire in Pune For Shree Travels</h5>
           <div class="accordion" id="accordionExample">
-
             <div class="accordion-item">
               <h2 class="accordion-header" id="heading1">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
