@@ -1,29 +1,29 @@
 <?php include 'includes/header.php' ?>
 <section class="banner-top">
-  <h1>Urbania On Rent in Pune</h1>
+  <h1>Urbania On Rent in Aurangabad</h1>
 </section>
 <div class="div-container ">
   <div class="detail-div">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
         <img class="div-img fade-in-on-scroll" src="bootstrap/images/urbania-rent.jpg" alt="">
-        <h5 class="text-left">Shree Travels: Urbania On Rent in Pune</h5>
-        <p class="fw-bold">Planning a memorable group outing or special event in Pune? Look no further than Shree
+        <h5 class="text-left">Shree Travels: Urbania On Rent in Aurangabad</h5>
+        <p class="fw-bold">Planning a memorable group outing or special event in Aurangabad? Look no further than Shree
           Travels for your Urbania rental needs. Our Urbania vehicles are ideal for family trips, corporate events,
           group sightseeing tours, or any occasion that calls for comfort and luxury on the road. With spacious
           interiors, luxurious seating, and top-notch features, our Urbania hire service ensures that your travel
-          experience is smooth and enjoyable. Here are the top 10 places to visit in Pune that you can explore with your
-          Urbania rental from Shree Travels:</p>
+          experience is smooth and enjoyable. Here are the top 10 places to visit in Aurangabad that you can explore
+          with your Urbania rental from Shree Travels:</p>
 
-        <h6 class="og">Top Places to Visit in Pune with Shree Travels</h6>
+        <h6 class="og">Top Places to Visit in Aurangabad with Shree Travels</h6>
         <div class="mt-3">
           <h5>Shaniwar Wada</h5>
-          <p>Explore the iconic Shaniwar Wada, once the seat of the Peshwa rulers and a symbol of Pune's royal past.
-            This historical fortification offers visitors a fascinating glimpse into Maratha heritage, with its stunning
-            architecture, ornate wooden pillars, and historical significance. As you wander through its gates and
-            courtyards, you'll be transported to a time of power and intrigue. It's also a fantastic spot for
+          <p>Explore the iconic Shaniwar Wada, once the seat of the Peshwa rulers and a symbol of Aurangabad's royal
+            past. This historical fortification offers visitors a fascinating glimpse into Maratha heritage, with its
+            stunning architecture, ornate wooden pillars, and historical significance. As you wander through its gates
+            and courtyards, you'll be transported to a time of power and intrigue. It's also a fantastic spot for
             photography, especially when the evening light casts a golden hue on its stone walls. Shaniwar Wada is not
-            just a place to visit, but a journey into the heart of Pune's history.</p>
+            just a place to visit, but a journey into the heart of Aurangabad's history.</p>
 
         </div>
         <div class="mt-3">
@@ -48,11 +48,11 @@
         </div>
         <div class="mt-3">
           <h5>Pataleshwar Cave Temple</h5>
-          <p>Nestled in the bustling heart of Pune, the Pataleshwar Cave Temple is a rock-cut temple dedicated to Lord
-            Shiva, offering visitors a serene escape. Dating back to the 8th century, the temple’s ancient architecture,
-            complete with intricate carvings and a large Shiva Lingam, makes it a fascinating historical and spiritual
-            site. The peaceful atmosphere inside provides a moment of calm in the midst of the city’s hustle, making it
-            a perfect place for those interested in religious history and rock-cut architecture.</p>
+          <p>Nestled in the bustling heart of Aurangabad, the Pataleshwar Cave Temple is a rock-cut temple dedicated to
+            Lord Shiva, offering visitors a serene escape. Dating back to the 8th century, the temple’s ancient
+            architecture, complete with intricate carvings and a large Shiva Lingam, makes it a fascinating historical
+            and spiritual site. The peaceful atmosphere inside provides a moment of calm in the midst of the city’s
+            hustle, making it a perfect place for those interested in religious history and rock-cut architecture.</p>
         </div>
         <div class="mt-3">
           <h5>Osho Ashram</h5>
@@ -71,8 +71,8 @@
             fascinating displays of Indian craftsmanship and cultural heritage.</p>
         </div>
         <div class="mt-3">
-          <h5>Pune Okayama Friendship Garden</h5>
-          <p>Inspired by traditional Japanese garden designs, the Pune Okayama Friendship Garden offers a peaceful
+          <h5>Aurangabad Okayama Friendship Garden</h5>
+          <p>Inspired by traditional Japanese garden designs, the Aurangabad Okayama Friendship Garden offers a peaceful
             retreat that invites visitors to slow down and appreciate nature’s beauty. With its lush greenery, serene
             ponds, and well-maintained paths, this garden is an ideal location for a relaxing walk, a peaceful afternoon
             picnic, or simply a moment of quiet reflection. The calm atmosphere makes it a perfect escape from the
@@ -80,248 +80,111 @@
         </div>
         <div class="mt-3">
           <h5>Shreemant Dagdusheth Halwai Ganapati Temple</h5>
-          <p>Shreemant Dagdusheth Halwai Ganapati Temple is one of Pune’s most revered temples, famous for its beautiful
-            idol of Lord Ganesh, which is adorned with gold and precious stones. The temple is not only a center of
-            spiritual devotion but also a stunning example of Maratha-era architecture. Thousands of visitors flock to
-            the temple annually, especially during the Ganesh Chaturthi festival, to witness its elaborate rituals and
-            seek blessings. The temple's vibrant atmosphere, combined with its intricate architecture, makes it a place
-            of both spiritual reverence and architectural splendor.</p>
+          <p>Shreemant Dagdusheth Halwai Ganapati Temple is one of Aurangabad’s most revered temples, famous for its
+            beautiful idol of Lord Ganesh, which is adorned with gold and precious stones. The temple is not only a
+            center of spiritual devotion but also a stunning example of Maratha-era architecture. Thousands of visitors
+            flock to the temple annually, especially during the Ganesh Chaturthi festival, to witness its elaborate
+            rituals and seek blessings. The temple's vibrant atmosphere, combined with its intricate architecture, makes
+            it a place of both spiritual reverence and architectural splendor.</p>
         </div>
         <div class="mt-3">
           <h5>Fergusson College</h5>
-          <p>Founded in 1885, Fergusson College is a historical landmark in Pune, renowned for its colonial-era
+          <p>Founded in 1885, Fergusson College is a historical landmark in Aurangabad, renowned for its colonial-era
             architecture and its contribution to India's academic excellence. The college campus is a beautiful blend of
             lush greenery and elegant buildings, making it an ideal spot for a quiet stroll. It has educated generations
-            of influential scholars, and its legacy in Pune’s academic history remains strong. The college is not just a
-            place of learning but also a symbol of Pune's historical and educational significance.</p>
+            of influential scholars, and its legacy in Aurangabad’s academic history remains strong. The college is not
+            just a place of learning but also a symbol of Aurangabad's historical and educational significance.</p>
         </div>
         <div class="mt-3">
           <h5>Khadakwasla Dam</h5>
-          <p>Located just a short drive from Pune, Khadakwasla Dam offers stunning views of the reservoir and the
+          <p>Located just a short drive from Aurangabad, Khadakwasla Dam offers stunning views of the reservoir and the
             surrounding hills, making it a popular destination for nature lovers and families. The dam is a peaceful
             retreat, ideal for a relaxing day out. Whether you’re enjoying a picnic by the water, taking a leisurely
             walk along its banks, or simply soaking in the serene atmosphere, Khadakwasla Dam provides a perfect setting
             to unwind and enjoy the natural beauty of the region.</p>
         </div>
         <div class="mt-3">
-          <h5>Luxury Force Urbania Hire in Pune</h5>
-          <p>For a luxurious and comfortable journey, rent the Force Urbania in Pune. Known for its spacious interiors
-            and modern amenities, the Force Urbania is perfect for both short and long trips. Whether it’s for corporate
-            travel, group outings, or special events, Shree Travels ensures a smooth and elegant experience.</p>
+          <h5>Luxury Force Urbania Hire in Aurangabad</h5>
+          <p>For a luxurious and comfortable journey, rent the Force Urbania in Aurangabad. Known for its spacious
+            interiors and modern amenities, the Force Urbania is perfect for both short and long trips. Whether it’s for
+            corporate travel, group outings, or special events, Shree Travels ensures a smooth and elegant experience.
+          </p>
         </div>
         <div class="mt-3">
-          <h5>13 Seater Force Urbania on Rent in Pune</h5>
+          <h5>13 Seater Force Urbania on Rent in Aurangabad</h5>
           <p>If you're looking for a smaller group travel option, the 13-seater Force Urbania is available for rent in
-            Pune. With its compact size and luxury features, it’s perfect for family trips, small corporate events, or
-            private gatherings. Book your 13-seater Force Urbania today with Shree Travels.</p>
+            Aurangabad. With its compact size and luxury features, it’s perfect for family trips, small corporate
+            events, or private gatherings. Book your 13-seater Force Urbania today with Shree Travels.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Force Urbania on Rent in Pune</h5>
-          <p>The 17-seater Force Urbania is a great choice for medium to large groups traveling together in Pune.
+          <h5>17 Seater Force Urbania on Rent in Aurangabad</h5>
+          <p>The 17-seater Force Urbania is a great choice for medium to large groups traveling together in Aurangabad.
             Spacious and comfortable, it is designed to provide a smooth ride for groups on any occasion, from corporate
             trips to family gatherings. Rent your 17-seater Force Urbania with Shree Travels for a hassle-free journey.
           </p>
         </div>
         <div class="mt-3">
-          <h5>Force Urbania on Rent for Outstation in Pune</h5>
-          <p>Shree Travels offers the Force Urbania for outstation trips from Pune. With ample space and comfortable
-            seating, it’s the ideal vehicle for long-distance travel to destinations like Mahabaleshwar, Shirdi, and
-            beyond. Experience a stress-free and relaxing outstation journey with a Force Urbania.</p>
+          <h5>Force Urbania on Rent for Outstation in Aurangabad</h5>
+          <p>Shree Travels offers the Force Urbania for outstation trips from Aurangabad. With ample space and
+            comfortable seating, it’s the ideal vehicle for long-distance travel to destinations like Mahabaleshwar,
+            Shirdi, and beyond. Experience a stress-free and relaxing outstation journey with a Force Urbania.</p>
         </div>
         <div class="mt-3">
-          <h5>Pune to Mahabaleshwar Urbania on Rent</h5>
-          <p>Rent the Urbania for your trip from Pune to Mahabaleshwar. With its spacious interiors and luxurious
+          <h5>Aurangabad to Mahabaleshwar Urbania on Rent</h5>
+          <p>Rent the Urbania for your trip from Aurangabad to Mahabaleshwar. With its spacious interiors and luxurious
             features, the Urbania ensures that your journey through the scenic Western Ghats is comfortable and
             enjoyable. Shree Travels offers competitive rates and a seamless booking process.</p>
         </div>
         <div class="mt-3">
-          <h5>Pune to Shirdi Urbania on Rent</h5>
-          <p>Book the Urbania for your pilgrimage journey from Pune to Shirdi. With spacious seating, air conditioning,
-            and ample space for luggage, the Urbania offers a comfortable and relaxing ride for your spiritual trip.
-            Choose Shree Travels for an affordable and reliable Shirdi trip.</p>
+          <h5>Aurangabad to Shirdi Urbania on Rent</h5>
+          <p>Book the Urbania for your pilgrimage journey from Aurangabad to Shirdi. With spacious seating, air
+            conditioning, and ample space for luggage, the Urbania offers a comfortable and relaxing ride for your
+            spiritual trip. Choose Shree Travels for an affordable and reliable Shirdi trip.</p>
         </div>
         <div class="mt-3">
-          <h5>Pune to Lonavala Urbania on Rent</h5>
-          <p>Planning a trip to Lonavala from Pune? Rent the Urbania for a comfortable ride. The spacious vehicle offers
-            plenty of room for your group and luggage, making it the ideal choice for trips to popular destinations like
-            Lonavala. Shree Travels guarantees a smooth, enjoyable ride.</p>
+          <h5>Aurangabad to Lonavala Urbania on Rent</h5>
+          <p>Planning a trip to Lonavala from Aurangabad? Rent the Urbania for a comfortable ride. The spacious vehicle
+            offers plenty of room for your group and luggage, making it the ideal choice for trips to popular
+            destinations like Lonavala. Shree Travels guarantees a smooth, enjoyable ride.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania on Rent in Kothrud, Pune</h5>
-          <p>For those in Kothrud, Pune, Shree Travels offers convenient Urbania rentals. Whether you need the vehicle
-            for city travel, group outings, or corporate events, the Urbania’s luxury and spacious interiors make it the
-            perfect choice. Book your Urbania with us for a comfortable ride around Pune.</p>
+          <h5>Urbania on Rent in Kothrud, Aurangabad</h5>
+          <p>For those in Kothrud, Aurangabad, Shree Travels offers convenient Urbania rentals. Whether you need the
+            vehicle for city travel, group outings, or corporate events, the Urbania’s luxury and spacious interiors
+            make it the perfect choice. Book your Urbania with us for a comfortable ride around Aurangabad.</p>
         </div>
         <div class="mt-3">
-          <h5>Urbania On Rent In Pune Contact Number</h5>
-          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania On Rent In Pune. We ensure a
+          <h5>Urbania On Rent In Aurangabad Contact Number</h5>
+          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania On Rent In Aurangabad. We ensure a
             smooth and enjoyable ride for all our customers.</p>
         </div>
 
         <table class="table table-responsive Border-key my-4 fade-in-on-scroll">
           <tbody>
             <tr class="fw-bold">
-              <td>Luxury Force Urbania on Rent in Pune</td>
-              <td>- 13 Seater Force Urbania on Rent in Pune</td>
+              <td>Luxury Force Urbania on Rent in Aurangabad</td>
+              <td>- 13 Seater Force Urbania on Rent in Aurangabad</td>
             </tr>
             <tr class="fw-bold">
-              <td>17 Seater Force Urbania on Rent in Pune</td>
-              <td>- Force Urbania on Rent for Outstation in Pune</td>
+              <td>17 Seater Force Urbania on Rent in Aurangabad</td>
+              <td>- Force Urbania on Rent for Outstation in Aurangabad</td>
             </tr>
             <tr class="fw-bold">
-              <td>Pune to Mahabaleshwar Urbania on Rent</td>
-              <td>- Pune to Shirdi Urbania on Rent</td>
+              <td>Aurangabad to Mahabaleshwar Urbania on Rent</td>
+              <td>- Aurangabad to Shirdi Urbania on Rent</td>
             </tr>
             <tr class="fw-bold">
-              <td>Pune to Lonavala Urbania on Rent</td>
+              <td>Aurangabad to Lonavala Urbania on Rent</td>
               <td>- Urbania on Rent in Kothrud</td>
             </tr>
             <tr class="fw-bold">
-              <td>Pune Urbania on Rent in Hadapsar, Pune</td>
+              <td>Aurangabad Urbania on Rent in Hadapsar, Aurangabad</td>
               <td></td>
             </tr>
           </tbody>
         </table>
-        <!-- <div class="fade-in-on-scroll">
-          <h4>Urbania On Rent in Pune Rates</h4>
-          <h4>Rates for AC Buses</h4>
-          <div class="table-responsive">
-            <table class="table-og">
-              <thead>
-                <tr>
-                  <th class="table-head">Bus Name</th>
-                  <th class="table-head">Seater</th>
-                  <th class="table-head">Per KM</th>
-                  <th class="table-head">Driver Food</th>
-                  <th class="table-head">Toll Parking</th>
-                  <th class="table-head"  style="width: 18%;">Book Now</th>
-
-                </tr>
-              </thead>
-              <tbody>
-                <tr class="table-row-bg">
-                  <td>SWIFT DESIRE</td>
-                  <td>4+1</td>
-                  <td>12</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>AURA</td>
-                  <td>4+1</td>
-                  <td>12</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>TOYOTA ETIOS</td>
-                  <td>4+1</td>
-                  <td>14</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>ERITGA</td>
-                  <td>6+1</td>
-                  <td>15</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>INNOVA</td>
-                  <td>6+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>SCORPIO</td>
-                  <td>8+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>INNOVA CRYSTA</td>
-                  <td>6+1</td>
-                  <td>22</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>AUDI</td>
-                  <td>4+1</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>TEMPO TRAVELLER</td>
-                  <td>13/17 SEATER</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>MINI BUS</td>
-                  <td>20 SEATER</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>BUS</td>
-                  <td>32-52</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>TAVERA</td>
-                  <td>8+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>KIA Carens</td>
-                  <td>6+1/7+1</td>
-                  <td>17/KM & 18/KM</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-
-              </tbody>
-            </table>
-          </div>
-        </div> -->
-
+       
+    
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12">
         <div class="sidebar fade-in-on-scroll">
@@ -331,7 +194,7 @@
                 <img src="bootstrap/images/urbania-black.jpg" alt="">
               </div>
               <div class="right">
-                <p>Urbania Hire In Pune</p>
+                <p>Urbania Hire In Aurangabad</p>
               </div>
             </a>
           </div>
@@ -341,7 +204,7 @@
                 <img src="bootstrap/images/urbania-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Urbania On Rent In Pune </p>
+                <p>Urbania On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -381,7 +244,7 @@
                 <img src="bootstrap/images/tempo-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>17 Seater On Rent In Pune </p>
+                <p>17 Seater On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -391,7 +254,7 @@
                 <img src="bootstrap/images/20-seater.jpg" alt="">
               </div>
               <div class="right">
-                <p>20 Seater On Rent In Pune </p>
+                <p>20 Seater On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -401,7 +264,7 @@
                 <img src="bootstrap/images/13-seater.jpg" alt="">
               </div>
               <div class="right">
-                <p>13 Seater On Rent In Pune </p>
+                <p>13 Seater On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -411,7 +274,7 @@
                 <img src="bootstrap/images/15-seater.webp" alt="">
               </div>
               <div class="right">
-                <p>15 Seater On Rent In Pune </p>
+                <p>15 Seater On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -421,7 +284,7 @@
                 <img src="bootstrap/images/10-seater-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>10 Seater On Rent In Pune </p>
+                <p>10 Seater On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -511,7 +374,7 @@
                 <img src="bootstrap/images/Car-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Car Rental Services In Pune </p>
+                <p>Car Rental Services In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -521,7 +384,7 @@
                 <img src="bootstrap/images/innova-crysta.png" alt="">
               </div>
               <div class="right">
-                <p>Innova Crysta On Rent In Pune </p>
+                <p>Innova Crysta On Rent In Aurangabad </p>
               </div>
             </a>
           </div>
@@ -531,7 +394,7 @@
                 <img src="bootstrap/images/tempo-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Tempo Traveller On Rent in Pune </p>
+                <p>Tempo Traveller On Rent in Aurangabad </p>
               </div>
             </a>
           </div>
@@ -541,7 +404,7 @@
                 <img src="bootstrap/images/tempo-mahabhaleshwar.webp" alt="">
               </div>
               <div class="right">
-                <p>Pune to Mahabaleshwar Tempo Traveller on Rent </p>
+                <p>Aurangabad to Mahabaleshwar Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -551,7 +414,7 @@
                 <img src="bootstrap/images/tempo-bheemashankar.jpg" alt="">
               </div>
               <div class="right">
-                <p>Pune to Bhimashankar Tempo Traveller on Rent </p>
+                <p>Aurangabad to Bhimashankar Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -561,7 +424,7 @@
                 <img src="bootstrap/images/tempo-shirdi.png" alt="">
               </div>
               <div class="right">
-                <p>Pune to Shirdi Tempo Traveller on Rent </p>
+                <p>Aurangabad to Shirdi Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -571,7 +434,7 @@
                 <img src="bootstrap/images/tempo-ashtavinayak.png" alt="">
               </div>
               <div class="right">
-                <p>Pune to Ashtavinayak Darshan Tempo Traveller </p>
+                <p>Aurangabad to Ashtavinayak Darshan Tempo Traveller </p>
               </div>
             </a>
           </div>
@@ -643,7 +506,7 @@
             <h4>Address</h4>
             <i class="fas fa-home"></i>
             <a href="" class="text-white d-block"> Shree Travels <br>Shop no 12, Barate complex near,<br>Vandevi temple
-              opp Ashok Samrat <br>school, Karve Nagar, Pune 411052.</a>
+              opp Ashok Samrat <br>school, Karve Nagar, Aurangabad 411052.</a>
 
 
           </div>
@@ -937,31 +800,31 @@
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
         <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for Urbania On Rent in Pune</h1>
+          <h1 class="mb-3">Why Choose Shree Travels for Urbania On Rent in Aurangabad</h1>
           <div>
             <h5 class="text-dark">Reliable and On-Time Service</h5>
             <p>At Shree Travels, we understand the importance of punctuality. Whether you need the Urbania on rent for a
               business trip or leisure travel, our drivers ensure timely pickups and drop-offs, making sure your journey
-              in Pune is smooth and on schedule.</p>
+              in Aurangabad is smooth and on schedule.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Comfortable and Spacious Vehicles</h5>
             <p>Our Urbania vehicles offer plenty of space and comfort for both small and large groups. With ample
-              legroom, air conditioning, and comfortable seating, your trip around Pune will be pleasant and relaxing.
-            </p>
+              legroom, air conditioning, and comfortable seating, your trip around Aurangabad will be pleasant and
+              relaxing.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are highly experienced and familiar with Pune’s routes. They ensure your ride is smooth and
-              safe while also offering you helpful guidance on the best routes, even in busy traffic.</p>
+            <p>Our drivers are highly experienced and familiar with Aurangabad’s routes. They ensure your ride is smooth
+              and safe while also offering you helpful guidance on the best routes, even in busy traffic.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers competitive rates for Urbania rentals in Pune. With no hidden charges, we ensure
-              that our pricing is transparent and affordable, providing great value for your money.</p>
+            <p>Shree Travels offers competitive rates for Urbania rentals in Aurangabad. With no hidden charges, we
+              ensure that our pricing is transparent and affordable, providing great value for your money.</p>
 
           </div>
           <div>
@@ -984,18 +847,18 @@
           </div>
           <div>
             <h5 class="text-dark">Customized Tours and Travel Packages</h5>
-            <p>If you're looking to explore Pune and its surroundings, Shree Travels offers customized travel packages.
-              Our drivers will guide you to the best spots, ensuring you get the most out of your trip while enjoying
-              the comfort of the Urbania.</p>
+            <p>If you're looking to explore Aurangabad and its surroundings, Shree Travels offers customized travel
+              packages. Our drivers will guide you to the best spots, ensuring you get the most out of your trip while
+              enjoying the comfort of the Urbania.</p>
 
           </div>
           <div class="fade-in-on-scroll">
-            <h5 class="fs-2 text-dark">fAQS Urbania Hire in Pune For Shree Travels</h5>
+            <h5 class="fs-2 text-dark">fAQS Urbania Hire in Aurangabad For Shree Travels</h5>
             <div class="accordion" id="accordionExample">
               <div class="accordion-item">
                 <h2 class="accordion-header" id="heading1">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                    How can I rent an Urbania in Pune with Shree Travels?
+                    How can I rent an Urbania in Aurangabad with Shree Travels?
                   </button>
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -1016,8 +879,8 @@
                 </h2>
                 <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Yes, our drivers are highly experienced and familiar with Pune’s routes. They ensure your journey is
-                    safe, smooth, and enjoyable. </div>
+                    Yes, our drivers are highly experienced and familiar with Aurangabad’s routes. They ensure your
+                    journey is safe, smooth, and enjoyable. </div>
                 </div>
               </div>
 
@@ -1089,13 +952,13 @@
                 <h2 class="accordion-header" id="heading7">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse7">
-                    Can I hire an Urbania for a sightseeing pune?
+                    Can I hire an Urbania for a sightseeing Aurangabad?
                   </button>
                 </h2>
                 <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Yes, Shree Travels offers customized sightseeing tours in Pune. Our drivers will ensure that you
-                    visit the top tourist spots comfortably.
+                    Yes, Shree Travels offers customized sightseeing tours in Aurangabad. Our drivers will ensure that
+                    you visit the top tourist spots comfortably.
                   </div>
                 </div>
               </div>
@@ -1117,7 +980,7 @@
                 <h2 class="accordion-header" id="heading7">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse9">
-                    Is Shree Travels available for corporate travel in Pune?
+                    Is Shree Travels available for corporate travel in Aurangabad?
                   </button>
                 </h2>
                 <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -1132,7 +995,7 @@
                 <h2 class="accordion-header" id="heading7">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse10">
-                    Why should I choose Shree Travels for Urbania hire in Pune?
+                    Why should I choose Shree Travels for Urbania hire in Aurangabad?
                   </button>
                 </h2>
                 <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -1140,7 +1003,7 @@
                     Shree Travels is known for reliable service, experienced drivers, well-maintained Urbania vehicles,
                     and transparent pricing. Our goal is to provide a safe, comfortable, and affordable travel
                     experience
-                    in Pune.
+                    in Aurangabad.
                   </div>
                 </div>
               </div>
@@ -1148,7 +1011,7 @@
             </div>
           </div>
           <div class="fade-in-on-scroll">
-            <h1 class="mt-4">Testimonial Urbania On Rent in Pune for Shree Travels</h1>
+            <h1 class="mt-4">Testimonial Urbania On Rent in Aurangabad for Shree Travels</h1>
 
             <div class="testimonial-left position-relative test-card ">
 
@@ -1157,14 +1020,14 @@
               <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide testimonial-slide">
-                    <p>We hired an Urbania for a family trip around Pune, and it was perfect! The vehicle was
-                      comfortable, and our driver made sure we visited all the best spots in Pune. Excellent service,
-                      and I'll definitely use Shree Travels again.</p>
+                    <p>We hired an Urbania for a family trip around Aurangabad, and it was perfect! The vehicle was
+                      comfortable, and our driver made sure we visited all the best spots in Aurangabad. Excellent
+                      service, and I'll definitely use Shree Travels again.</p>
                     <h4 class="text-center">Mrs. Neha Desai</h4>
                     <div class="stars text-center">★ ★ ★ ★ ★</div>
                   </div>
                   <div class="swiper-slide testimonial-slide">
-                    <p>I rented an Urbania from Shree Travels for a business event in Pune, and it was a great
+                    <p>I rented an Urbania from Shree Travels for a business event in Aurangabad, and it was a great
                       experience! The vehicle was spacious and clean, and the driver was punctual and professional. I
                       highly recommend their services for anyone in need of a reliable ride.</p>
                     <h4 class="text-center">Mr. Ravi Kumar</h4>
@@ -1177,7 +1040,7 @@
             </div>
           </div>
           <div class="contact-section mb-0 fade-in-on-scroll">
-            <h2 class="fw-bold mt-0">Urbania on Rent in Pune Contact Number</h2>
+            <h2 class="fw-bold mt-0">Urbania on Rent in Aurangabad Contact Number</h2>
             <p>For booking inquiries or any assistance, please feel free to contact us:</p>
             <div class="contact-info">
               <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>

@@ -183,401 +183,8 @@
             </tr>
           </tbody>
         </table>
-        <div class="fade-in-on-scroll">
-          <h4>Urbania Hire in Pune Rates</h4>
-          <h4>Rates for AC Buses</h4>
-          <div class="table-responsive">
-            <table class="table-og">
-              <thead>
-                <tr>
-                  <th class="table-head">Bus Name</th>
-                  <th class="table-head">Seater</th>
-                  <th class="table-head">Per KM</th>
-                  <th class="table-head">Driver Food</th>
-                  <th class="table-head">Toll Parking</th>
-                  <th class="table-head"  style="width: 18%;">Book Now</th>
-
-                </tr>
-              </thead>
-              <tbody>
-                <tr class="table-row-bg">
-                  <td>SWIFT DESIRE</td>
-                  <td>4+1</td>
-                  <td>12</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>AURA</td>
-                  <td>4+1</td>
-                  <td>12</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>TOYOTA ETIOS</td>
-                  <td>4+1</td>
-                  <td>14</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>ERITGA</td>
-                  <td>6+1</td>
-                  <td>15</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>INNOVA</td>
-                  <td>6+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>SCORPIO</td>
-                  <td>8+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>INNOVA CRYSTA</td>
-                  <td>6+1</td>
-                  <td>22</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>AUDI</td>
-                  <td>4+1</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>TEMPO TRAVELLER</td>
-                  <td>13/17 SEATER</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>MINI BUS</td>
-                  <td>20 SEATER</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>BUS</td>
-                  <td>32-52</td>
-                  <td>ON CALL</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row">
-                  <td>TAVERA</td>
-                  <td>8+1</td>
-                  <td>18</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-                <tr class="table-row-bg">
-                  <td>KIA Carens</td>
-                  <td>6+1/7+1</td>
-                  <td>17/KM & 18/KM</td>
-                  <td>Extra</td>
-                  <td>Extra</td>
-                  <td><button>Book Now</button></td>
-
-                </tr>
-
-              </tbody>
-            </table>
-          </div>
-        </div>
-        <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for Urbania Hire in Pune</h1>
-          <div>
-            <h5 class="text-dark">Reliable and On-Time Service</h5>
-            <p>At Shree Travels, we prioritize punctuality. Whether you're traveling for business or leisure, our
-              drivers ensure timely pickups and drop-offs. With us, your Urbania hire in Pune will always be seamless
-              and on schedule.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Comfortable and Spacious Vehicles</h5>
-            <p>We offer a range of Urbania vehicles that provide ample space and comfort for your journey. Our
-              well-maintained fleet ensures a comfortable and pleasant ride, whether it's for a short trip or
-              long-distance travel.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are well-trained, courteous, and experienced in handling Urbania vehicles. They are
-              knowledgeable about Pune's roads and ensure your journey is smooth, safe, and efficient, even during peak
-              traffic times.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers competitive pricing for your Urbania hire needs in Pune. We believe in transparency
-              with no hidden fees, ensuring that you get great value for your money.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Safe and Comfortable Journey</h5>
-            <p>Your safety is our top priority. Our vehicles undergo regular maintenance and are equipped with safety
-              features such as GPS and airbags. Our experienced drivers ensure a secure and comfortable ride throughout
-              your journey.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">24/7 Availability</h5>
-            <p>Whether it's an early morning trip or a late-night return, Shree Travels is available 24/7. You can book
-              an Urbania hire at any time, and our customer service team is always ready to assist you with your
-              queries.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Hassle-Free Booking Process</h5>
-            <p>Booking an Urbania with Shree Travels is easy and fast. You can book online through our website or mobile
-              app, or simply call our customer service team to arrange your ride. We strive to make your booking
-              experience as convenient as possible.</p>
-
-          </div>
-          <div>
-            <h5 class="text-dark">Customized Tours and Travel Packages</h5>
-            <p>If you wish to explore Pune and its surroundings, Shree Travels offers customized sightseeing tours. Let
-              us know your preferences, and we’ll make sure to take you to the top destinations in and around Pune in
-              comfort.</p>
-
-          </div>
-          <div class="fade-in-on-scroll">
-          <h5 class="fs-2 text-dark">fAQS Urbania Hire in Pune For Shree Travels</h5>
-          <div class="accordion" id="accordionExample">
-
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading1">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                  How can I book an Urbania hire in Pune with Shree Travels?
-                </button>
-              </h2>
-              <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  You can easily book an Urbania hire online via our website or mobile app, or you can call our customer
-                  service team for assistance.
-                </div>
-              </div>
-            </div>
-
-            <!-- Section 2 -->
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading2">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse2">
-                  Are the drivers experienced for Urbania trips?
-                </button>
-              </h2>
-              <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Yes, our drivers are highly experienced, familiar with Pune’s roads, and skilled in handling Urbania
-                  vehicles. They ensure your ride is smooth and safe.
-                </div>
-              </div>
-            </div>
-
-            <!-- Section 3 -->
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading3">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse3">
-                  What types of Urbania vehicles are available for hire?
-                </button>
-              </h2>
-              <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  We offer Urbania vehicles that can accommodate both small and large groups, providing ample space for
-                  luggage and passengers. Choose the option that best fits your needs.
-                </div>
-              </div>
-            </div>
-
-            <!-- Section 4 -->
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading4">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse4">
-                  How do I pay for my Urbania hire?
-                </button>
-              </h2>
-              <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  We offer flexible payment options, including cash, credit/debit cards, and online payment via our
-                  mobile app.
-                </div>
-              </div>
-            </div>
-
-            <!-- Section 5 -->
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading5">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse5">
-                  Can I book a round trip with Urbania?
-                </button>
-              </h2>
-              <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Yes, you can book a round trip for your Urbania hire. Simply provide your return details, and we’ll
-                  make the necessary arrangements.
-                </div>
-              </div>
-            </div>
-
-            <!-- Section 6 -->
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading6">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse6">
-                  Are there any extra charges for waiting time or detours?
-                </button>
-              </h2>
-              <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Extra charges may apply for waiting time or detours, but we ensure all charges are communicated
-                  upfront to maintain transparency.
-                </div>
-              </div>
-            </div>
-
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading7">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse7">
-                  Can I hire an Urbania for a sightseeing tour?
-                </button>
-              </h2>
-              <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Absolutely! Shree Travels offers customized sightseeing tours with an Urbania hire. Our drivers will
-                  ensure you visit the best attractions in Pune and surrounding areas.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading7">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse8">
-                  What is the luggage allowance for an Urbania hire?
-                </button>
-              </h2>
-              <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Standard luggage can be carried in our Urbania vehicles. If you have special luggage requirements,
-                  please let us know during the booking process, and we’ll accommodate your needs.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading7">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse9">
-                  Is Shree Travels available for corporate travel in Pune?
-                </button>
-              </h2>
-              <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Yes, we provide corporate travel services for business meetings, events, and team outings. Contact us
-                  to discuss tailored packages for your corporate needs.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="heading7">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapse10">
-                  Why should I choose Shree Travels for Urbania hire in Pune?
-                </button>
-              </h2>
-              <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  Shree Travels is known for reliable service, experienced drivers, well-maintained Urbania vehicles,
-                  and transparent pricing. Our goal is to provide a safe, comfortable, and affordable travel experience
-                  in Pune.
-                </div>
-              </div>
-            </div>
-
-          </div>
-          </div>
-         <div class="fade-in-on-scroll">
-         <h1 class="mt-4">Testimonial Urbania Hire in Pune for Shree Travels</h1>
-
-<div class="testimonial-left position-relative test-card ">
-
-  <h2 class="fw-bold">What Our Customer's Say</h2>
-
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide testimonial-slide">
-        <p>I hired an Urbania from Shree Travels for a corporate event, and the experience was wonderful! The
-          vehicle was spacious, clean, and comfortable. The driver was punctual, professional, and knew the
-          best routes. I highly recommend their services.</p>
-        <h4 class="text-center">Mr. Rahul Verma</h4>
-        <div class="stars text-center">★ ★ ★ ★ ★</div>
-      </div>
-      <div class="swiper-slide testimonial-slide">
-        <p>We hired an Urbania for a family trip around Pune, and it was perfect! The vehicle was very
-          comfortable, and our driver ensured we visited all the popular spots. Great experience overall, and
-          I will definitely use Shree Travels again.</p>
-        <h4 class="text-center">Ms. Priya Deshmukh</h4>
-        <div class="stars text-center">★ ★ ★ ★ ★</div>
-      </div>
-
-    </div>
-    <div class="swiper-pagination position-relative mt-3"></div>
-  </div>
-</div>
-         </div>
-          <div class="contact-section mb-0 fade-in-on-scroll">
-            <h2 class="fw-bold mt-0">Urbania Hire in Pune Contact Number</h2>
-            <p>For booking inquiries or any assistance, please feel free to contact us:</p>
-            <div class="contact-info">
-              <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
-              <p><i class="fas fa-phone icon"></i><span>Email:</span> <a href="">+91 7620411277</a></p>
-              <p><i class="fas fa-envelope icon"></i><span>Email:</span> <a href="">pmargale83@gmail.com</a></p>
-
-            </div>
-          </div>
-
-        </div>
+     
+     
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12">
         <div class="sidebar fade-in-on-scroll">
@@ -907,6 +514,555 @@
 
       </div>
 
+    </div>
+    <h4 class="text-left">Non AC Bus Fare</h4>
+    <div class="table-responsive">
+
+      <table class="table-og">
+        <thead>
+          <tr class="table-row">
+            <th class="table-head">SR.NO</th>
+            <th class="table-head">Seat</th>
+            <th class="table-head">Per KM Rate (300 KM Package)</th>
+            <th class="table-head">Per KM</th>
+            <th class="table-head">8/80 Pune Local</th>
+            <th class="table-head">Extra Hour</th>
+            <th class="table-head">Mumbai Upto 350KM</th>
+            <th class="table-head">Mahabaleshwar Upto 300KM</th>
+            <th class="table-head">Shirdi (450 KM)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="table-row">
+            <td>1</td>
+            <td>13</td>
+            <td>7200</td>
+            <td>22</td>
+            <td>5500</td>
+            <td>400</td>
+            <td>9000</td>
+            <td>9000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>2</td>
+            <td>17</td>
+            <td>7500</td>
+            <td>22</td>
+            <td>5500</td>
+            <td>400</td>
+            <td>10000</td>
+            <td>10000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>3</td>
+            <td>20</td>
+            <td>8100</td>
+            <td>25</td>
+            <td>5500</td>
+            <td>400</td>
+            <td>11000</td>
+            <td>12000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>4</td>
+            <td>30</td>
+            <td>9600</td>
+            <td>32</td>
+            <td>7500</td>
+            <td>400</td>
+            <td>14000</td>
+            <td>13000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>5</td>
+            <td>32</td>
+            <td>11100</td>
+            <td>37</td>
+            <td>7500</td>
+            <td>400</td>
+            <td>18000</td>
+            <td>14000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>6</td>
+            <td>35</td>
+            <td>12000</td>
+            <td>40</td>
+            <td>8000</td>
+            <td>400</td>
+            <td>18000</td>
+            <td>14000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>7</td>
+            <td>45</td>
+            <td>14400</td>
+            <td>48</td>
+            <td>9000</td>
+            <td>400</td>
+            <td>20000</td>
+            <td>16000</td>
+            <td>0</td>
+          </tr>
+          <tr class="table-row">
+            <td>8</td>
+            <td>49</td>
+            <td>15000</td>
+            <td>50</td>
+            <td>9500</td>
+            <td>400</td>
+            <td>20000</td>
+            <td>16000</td>
+            <td>0</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h4 class="margin-top text-left">AC Bus Fare</h4>
+    <div class="table-responsive">
+
+      <table class="table-og">
+        <thead>
+          <tr class="table-row">
+            <th class="table-head">SR.NO</th>
+            <th class="table-head">Seat</th>
+            <th class="table-head">Per KM Rate (300 KM Package)</th>
+            <th class="table-head">Per KM</th>
+            <th class="table-head">8/80 Pune Local</th>
+            <th class="table-head">Extra Hour</th>
+            <th class="table-head">Mumbai Upto 350KM</th>
+            <th class="table-head">Mahabaleshwar Mumbai</th>
+            <th class="table-head">Shirdi (450 KM)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="table-row">
+            <td>1</td>
+            <td>13</td>
+            <td>8100</td>
+            <td>25</td>
+            <td>5500</td>
+            <td>500</td>
+            <td>10000</td>
+            <td>10000</td>
+            <td>10000</td>
+          </tr>
+          <tr class="table-row">
+            <td>2</td>
+            <td>15</td>
+            <td>9000</td>
+            <td>30</td>
+            <td>5500</td>
+            <td>500</td>
+            <td>11000</td>
+            <td>11000</td>
+            <td>11000</td>
+          </tr>
+          <tr class="table-row">
+            <td>3</td>
+            <td>17</td>
+            <td>9600</td>
+            <td>25</td>
+            <td>5500</td>
+            <td>500</td>
+            <td>12000</td>
+            <td>12000</td>
+            <td>12000</td>
+          </tr>
+          <tr class="table-row">
+            <td>4</td>
+            <td>20</td>
+            <td>10200</td>
+            <td>30</td>
+            <td>6000</td>
+            <td>500</td>
+            <td>15000</td>
+            <td>15000</td>
+            <td>13000</td>
+          </tr>
+          <tr class="table-row">
+            <td>5</td>
+            <td>24</td>
+            <td>11000</td>
+            <td>38</td>
+            <td>8000</td>
+            <td>500</td>
+            <td>18000</td>
+            <td>18000</td>
+            <td>14000</td>
+          </tr>
+          <tr class="table-row">
+            <td>6</td>
+            <td>32</td>
+            <td>12000</td>
+            <td>48</td>
+            <td>9500</td>
+            <td>600</td>
+            <td>16000</td>
+            <td>16000</td>
+            <td>16000</td>
+          </tr>
+          <tr class="table-row">
+            <td>7</td>
+            <td>35</td>
+            <td>14000</td>
+            <td>50</td>
+            <td>12000</td>
+            <td>800</td>
+            <td>21000</td>
+            <td>21000</td>
+            <td>16000</td>
+          </tr>
+          <tr class="table-row">
+            <td>8</td>
+            <td>40</td>
+            <td>14000</td>
+            <td>60</td>
+            <td>12000</td>
+            <td>800</td>
+            <td>21000</td>
+            <td>21000</td>
+            <td>16000</td>
+          </tr>
+          <tr class="table-row">
+            <td>9</td>
+            <td>45</td>
+            <td>16000</td>
+            <td>60</td>
+            <td>14000</td>
+            <td>1000</td>
+            <td>25000</td>
+            <td>25000</td>
+            <td>19500</td>
+          </tr>
+          <tr class="table-row">
+            <td>10</td>
+            <td>49</td>
+            <td>21000</td>
+            <td>90</td>
+            <td>16000</td>
+            <td>1000</td>
+            <td>27000</td>
+            <td>27000</td>
+            <td>21000</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h4 class="margin-top text-left">Special Premium Bus Fare</h4>
+  <div class="table-responsive">
+
+    <table class="table-og">
+      <thead>
+        <tr class="table-row">
+          <th class="table-head">SR.NO</th>
+          <th class="table-head">Seat</th>
+          <th class="table-head">Per KM Rate (300 KM Package)</th>
+          <th class="table-head">Per KM</th>
+          <th class="table-head">8/80 Pune Local</th>
+          <th class="table-head">Extra Hour</th>
+          <th class="table-head">Mahabaleshwar Mumbai</th>
+          <th class="table-head">Shirdi (450 KM)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="table-row">
+          <td>10</td>
+          <td>Scania 45</td>
+          <td>24000</td>
+          <td>80</td>
+          <td>17000</td>
+          <td>1000</td>
+          <td>24000</td>
+          <td>24000</td>
+          <td>0</td>
+        </tr>
+        <tr class="table-row">
+          <td>11</td>
+          <td>Volvo 49</td>
+          <td>25500</td>
+          <td>90</td>
+          <td>17000</td>
+          <td>1000</td>
+          <td>27000</td>
+          <td>27000</td>
+          <td>0</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+    <div class="row">
+      <div class="col-lg-7 col-md-7 col-sm-12">
+        <div class="fade-in-on-scroll">
+          <h1 class="mb-3">Why Choose Shree Travels for Urbania Hire in Pune</h1>
+          <div>
+            <h5 class="text-dark">Reliable and On-Time Service</h5>
+            <p>At Shree Travels, we prioritize punctuality. Whether you're traveling for business or leisure, our
+              drivers ensure timely pickups and drop-offs. With us, your Urbania hire in Pune will always be seamless
+              and on schedule.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Comfortable and Spacious Vehicles</h5>
+            <p>We offer a range of Urbania vehicles that provide ample space and comfort for your journey. Our
+              well-maintained fleet ensures a comfortable and pleasant ride, whether it's for a short trip or
+              long-distance travel.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Experienced and Professional Drivers</h5>
+            <p>Our drivers are well-trained, courteous, and experienced in handling Urbania vehicles. They are
+              knowledgeable about Pune's roads and ensure your journey is smooth, safe, and efficient, even during peak
+              traffic times.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Affordable and Transparent Pricing</h5>
+            <p>Shree Travels offers competitive pricing for your Urbania hire needs in Pune. We believe in transparency
+              with no hidden fees, ensuring that you get great value for your money.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Safe and Comfortable Journey</h5>
+            <p>Your safety is our top priority. Our vehicles undergo regular maintenance and are equipped with safety
+              features such as GPS and airbags. Our experienced drivers ensure a secure and comfortable ride throughout
+              your journey.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">24/7 Availability</h5>
+            <p>Whether it's an early morning trip or a late-night return, Shree Travels is available 24/7. You can book
+              an Urbania hire at any time, and our customer service team is always ready to assist you with your
+              queries.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Hassle-Free Booking Process</h5>
+            <p>Booking an Urbania with Shree Travels is easy and fast. You can book online through our website or mobile
+              app, or simply call our customer service team to arrange your ride. We strive to make your booking
+              experience as convenient as possible.</p>
+
+          </div>
+          <div>
+            <h5 class="text-dark">Customized Tours and Travel Packages</h5>
+            <p>If you wish to explore Pune and its surroundings, Shree Travels offers customized sightseeing tours. Let
+              us know your preferences, and we’ll make sure to take you to the top destinations in and around Pune in
+              comfort.</p>
+
+          </div>
+          <div class="fade-in-on-scroll">
+            <h5 class="fs-2 text-dark">fAQS Urbania Hire in Pune For Shree Travels</h5>
+            <div class="accordion" id="accordionExample">
+
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading1">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
+                    How can I book an Urbania hire in Pune with Shree Travels?
+                  </button>
+                </h2>
+                <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    You can easily book an Urbania hire online via our website or mobile app, or you can call our
+                    customer
+                    service team for assistance.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 2 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading2">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse2">
+                    Are the drivers experienced for Urbania trips?
+                  </button>
+                </h2>
+                <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, our drivers are highly experienced, familiar with Pune’s roads, and skilled in handling Urbania
+                    vehicles. They ensure your ride is smooth and safe.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 3 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading3">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse3">
+                    What types of Urbania vehicles are available for hire?
+                  </button>
+                </h2>
+                <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    We offer Urbania vehicles that can accommodate both small and large groups, providing ample space
+                    for
+                    luggage and passengers. Choose the option that best fits your needs.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 4 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading4">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse4">
+                    How do I pay for my Urbania hire?
+                  </button>
+                </h2>
+                <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    We offer flexible payment options, including cash, credit/debit cards, and online payment via our
+                    mobile app.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 5 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading5">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse5">
+                    Can I book a round trip with Urbania?
+                  </button>
+                </h2>
+                <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, you can book a round trip for your Urbania hire. Simply provide your return details, and we’ll
+                    make the necessary arrangements.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 6 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading6">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse6">
+                    Are there any extra charges for waiting time or detours?
+                  </button>
+                </h2>
+                <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Extra charges may apply for waiting time or detours, but we ensure all charges are communicated
+                    upfront to maintain transparency.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse7">
+                    Can I hire an Urbania for a sightseeing tour?
+                  </button>
+                </h2>
+                <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Absolutely! Shree Travels offers customized sightseeing tours with an Urbania hire. Our drivers will
+                    ensure you visit the best attractions in Pune and surrounding areas.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse8">
+                    What is the luggage allowance for an Urbania hire?
+                  </button>
+                </h2>
+                <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Standard luggage can be carried in our Urbania vehicles. If you have special luggage requirements,
+                    please let us know during the booking process, and we’ll accommodate your needs.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse9">
+                    Is Shree Travels available for corporate travel in Pune?
+                  </button>
+                </h2>
+                <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, we provide corporate travel services for business meetings, events, and team outings. Contact
+                    us
+                    to discuss tailored packages for your corporate needs.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse10">
+                    Why should I choose Shree Travels for Urbania hire in Pune?
+                  </button>
+                </h2>
+                <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Shree Travels is known for reliable service, experienced drivers, well-maintained Urbania vehicles,
+                    and transparent pricing. Our goal is to provide a safe, comfortable, and affordable travel
+                    experience
+                    in Pune.
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="fade-in-on-scroll">
+            <h1 class="mt-4">Testimonial Urbania Hire in Pune for Shree Travels</h1>
+
+            <div class="testimonial-left position-relative test-card ">
+
+              <h2 class="fw-bold">What Our Customer's Say</h2>
+
+              <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide testimonial-slide">
+                    <p>I hired an Urbania from Shree Travels for a corporate event, and the experience was wonderful!
+                      The
+                      vehicle was spacious, clean, and comfortable. The driver was punctual, professional, and knew the
+                      best routes. I highly recommend their services.</p>
+                    <h4 class="text-center">Mr. Rahul Verma</h4>
+                    <div class="stars text-center">★ ★ ★ ★ ★</div>
+                  </div>
+                  <div class="swiper-slide testimonial-slide">
+                    <p>We hired an Urbania for a family trip around Pune, and it was perfect! The vehicle was very
+                      comfortable, and our driver ensured we visited all the popular spots. Great experience overall,
+                      and
+                      I will definitely use Shree Travels again.</p>
+                    <h4 class="text-center">Ms. Priya Deshmukh</h4>
+                    <div class="stars text-center">★ ★ ★ ★ ★</div>
+                  </div>
+
+                </div>
+                <div class="swiper-pagination position-relative mt-3"></div>
+              </div>
+            </div>
+          </div>
+          <div class="contact-section mb-0 fade-in-on-scroll">
+            <h2 class="fw-bold mt-0">Urbania Hire in Pune Contact Number</h2>
+            <p>For booking inquiries or any assistance, please feel free to contact us:</p>
+            <div class="contact-info">
+              <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
+              <p><i class="fas fa-phone icon"></i><span>Email:</span> <a href="">+91 7620411277</a></p>
+              <p><i class="fas fa-envelope icon"></i><span>Email:</span> <a href="">pmargale83@gmail.com</a></p>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
     </div>
   </div>
 </div>

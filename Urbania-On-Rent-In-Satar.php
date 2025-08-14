@@ -1,177 +1,189 @@
 <?php include 'includes/header.php' ?>
 <section class="banner-top">
-  <h1>Urbania On Rent in Shirdi</h1>
+  <h1>Urbania On Rent in Satar</h1>
 </section>
 <div class="div-container ">
   <div class="detail-div">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
-        <img class="div-img fade-in-on-scroll" src="bootstrap/images/tempo-rent.jpg" alt="">
-        <h5 class="text-left">Shree Travels: 17 Seater on Rent in Pune</h5>
-        <p class="fw-bold">Shree Travels offers reliable, comfortable, and affordable 17-seater rental services in Pune.
-          Whether you are planning a family trip, group outing, corporate event, or any other special occasion, we
-          provide spacious, well-maintained vehicles to accommodate your travel needs. With experienced drivers and a
-          focus on safety and comfort, you can trust us for a hassle-free and enjoyable journey.</p>
+        <img class="div-img fade-in-on-scroll" src="bootstrap/images/urbania-rent.jpg" alt="">
+        <h5 class="text-left">Shree Travels: Urbania On Rent in Satar</h5>
+        <p class="fw-bold">Planning a memorable group outing or special event in Satar? Look no further than Shree
+          Travels for your Urbania rental needs. Our Urbania vehicles are ideal for family trips, corporate events,
+          group sightseeing tours, or any occasion that calls for comfort and luxury on the road. With spacious
+          interiors, luxurious seating, and top-notch features, our Urbania hire service ensures that your travel
+          experience is smooth and enjoyable. Here are the top 10 places to visit in Satar that you can explore with
+          your Urbania rental from Shree Travels:</p>
 
-        <h6 class="og">Top Places to Visit in Pune with Shree Travels 17 Seater</h6>
+        <h6 class="og">Top Places to Visit in Satar with Shree Travels</h6>
         <div class="mt-3">
           <h5>Shaniwar Wada</h5>
-          <p>Shaniwar Wada is a historic fortification and one of the most important landmarks in Pune. Known for its
-            architectural beauty and rich history, it was originally the seat of the Peshwa rulers. Visitors can explore
-            the remnants of this majestic fort, including its grand gates, bastions, and the mesmerizing light and sound
-            show that narrates its history.
-          </p>
+          <p>Explore the iconic Shaniwar Wada, once the seat of the Peshwa rulers and a symbol of Satar's royal past.
+            This historical fortification offers visitors a fascinating glimpse into Maratha heritage, with its stunning
+            architecture, ornate wooden pillars, and historical significance. As you wander through its gates and
+            courtyards, you'll be transported to a time of power and intrigue. It's also a fantastic spot for
+            photography, especially when the evening light casts a golden hue on its stone walls. Shaniwar Wada is not
+            just a place to visit, but a journey into the heart of Satar's history.</p>
 
         </div>
         <div class="mt-3">
           <h5>Aga Khan Palace</h5>
-          <p>Aga Khan Palace is a grand historical palace in Pune, known for its association with Mahatma Gandhi. It was
-            here that Gandhi and his followers were interned during the British rule. The palace is a serene place with
-            beautiful gardens, offering visitors a peaceful atmosphere along with a glimpse into India’s freedom
-            struggle.</p>
+          <p>Aga Khan Palace is not only a stunning example of Italianate architecture but also a site of historical
+            importance due to its association with Mahatma Gandhi. Built in 1892, the palace features grand arches,
+            intricate wooden windows, and lush gardens that offer a peaceful environment. It served as a place of
+            imprisonment for Gandhi during the Indian independence movement, making it a significant symbol of India's
+            struggle for freedom. The serene atmosphere, combined with the historical context, makes this palace a
+            must-visit for history enthusiasts and those seeking a tranquil retreat.</p>
 
         </div>
         <div class="mt-3">
           <h5>Sinhagad Fort</h5>
-          <p>Sinhagad Fort is a popular hill fort located on a hilltop offering panoramic views of Pune. It holds
-            historical significance as the site of numerous battles, including the Battle of Sinhagad. It is a popular
-            spot for trekking, picnicking, and enjoying nature, making it an ideal destination for adventure
-            enthusiasts.</p>
-
-        </div>
-        <div class="mt-3">
-          <h5>Pune Okayama Friendship Garden</h5>
-          <p>The Pune Okayama Friendship Garden is a peaceful Japanese-style garden located in the city. Designed with
-            traditional Japanese landscaping techniques, it offers a tranquil escape from the hustle and bustle of urban
-            life. This garden is perfect for a relaxing stroll, photography, and enjoying nature.</p>
-
-        </div>
-        <div class="mt-3">
-          <h5>Osho Ashram</h5>
-          <p>Osho Ashram, also known as the Osho International Meditation Resort, is a spiritual retreat that attracts
-            visitors seeking peace and serenity. The ashram offers various meditation techniques and therapies, allowing
-            individuals to experience relaxation and inner peace in a lush, green environment.</p>
-
-        </div>
-        <div class="mt-3">
-          <h5>Katraj Snake Park</h5>
-          <p>Located in the scenic Katraj hills, the Katraj Snake Park is a unique park dedicated to snake conservation.
-            It is home to various species of snakes, reptiles, and other wildlife. The park is an educational and fun
-            experience for nature lovers, offering an opportunity to learn about the importance of wildlife
-            conservation.</p>
-
-        </div>
-        <div class="mt-3">
-          <h5>Dagdusheth Halwai Ganapati Temple</h5>
-          <p>The Dagdusheth Halwai Ganapati Temple is one of Pune’s most revered and famous temples. Known for its
-            grandeur and spiritual significance, the temple is dedicated to Lord Ganesha. The temple attracts thousands
-            of devotees every year, especially during Ganesh Chaturthi, and is renowned for its divine ambiance and
-            artistic design.</p>
-
-        </div>
-        <div class="mt-3">
-          <h5>Khadakwasla Dam</h5>
-          <p>Khadakwasla Dam is a scenic spot located just outside Pune, offering peaceful views of the reservoir. It is
-            an ideal location for picnics, outings, and leisurely walks along the water’s edge. The surrounding
-            landscape, with its lush greenery and cool breeze, makes it a popular destination for nature lovers.</p>
+          <p>For both history enthusiasts and adventure seekers, Sinhagad Fort is a must-visit destination. Located atop
+            a hill, this fort offers stunning panoramic views of the surrounding countryside and is steeped in history,
+            particularly due to the Battle of Sinhagad in 1670. The trek to the fort is a popular activity for nature
+            lovers and fitness enthusiasts, while the fort itself is an ideal location for photography. With its ancient
+            gates, temples, and scenic surroundings, Sinhagad Fort is a perfect blend of history, adventure, and natural
+            beauty.</p>
 
         </div>
         <div class="mt-3">
           <h5>Pataleshwar Cave Temple</h5>
-          <p>Pataleshwar Cave Temple is an ancient rock-cut temple dedicated to Lord Shiva, located in the heart of
-            Pune. It is one of the oldest temples in the city, showcasing intricate carvings and architectural
-            brilliance. The temple offers a serene and spiritual experience and is a must-visit for those interested in
-            Pune’s history and culture.</p>
-
+          <p>Nestled in the bustling heart of Satar, the Pataleshwar Cave Temple is a rock-cut temple dedicated to Lord
+            Shiva, offering visitors a serene escape. Dating back to the 8th century, the temple’s ancient architecture,
+            complete with intricate carvings and a large Shiva Lingam, makes it a fascinating historical and spiritual
+            site. The peaceful atmosphere inside provides a moment of calm in the midst of the city’s hustle, making it
+            a perfect place for those interested in religious history and rock-cut architecture.</p>
         </div>
         <div class="mt-3">
-          <h5>Lonavala and Khandala</h5>
-          <p>Lonavala and Khandala are two picturesque hill stations located near Pune, famous for their stunning views,
-            pleasant weather, and numerous tourist-friendly spots. Whether you enjoy trekking, exploring forts, or
-            simply relaxing in the scenic surroundings, these hill stations provide the perfect escape from the city.
-            Popular attractions include Bhushi Dam, Tiger’s Leap, and the Karla Caves.</p>
-
+          <h5>Osho Ashram</h5>
+          <p>Known worldwide for its serene ambiance and spiritual teachings, Osho Ashram offers a unique retreat for
+            those seeking inner peace. The Ashram, set in tranquil surroundings, is a renowned global spiritual center
+            where visitors can engage in various meditation sessions, spiritual activities, and wellness programs. It is
+            a haven for individuals looking to relax, reflect, and rejuvenate. The Ashram's beautiful gardens and
+            peaceful atmosphere provide the perfect environment for self-discovery and personal growth.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Tempo Traveller on Rent in Pune</h5>
-          <p>Rent a 17-seater Tempo Traveller in Pune for group travel. Ideal for family trips, corporate outings, or
-            sightseeing tours, this vehicle offers ample space and comfort for all passengers. Shree Travels ensures a
-            smooth, comfortable, and affordable journey for your group.</p>
-
+          <h5>Raja Dinkar Kelkar Museum</h5>
+          <p>The Raja Dinkar Kelkar Museum is a treasure trove of India’s cultural history, housing a vast array of
+            artifacts that span centuries. The museum’s diverse collection includes sculptures, musical instruments,
+            pottery, and textiles, each offering a window into the country’s artistic and cultural evolution. Whether
+            you’re an art lover or history enthusiast, this museum provides an enriching experience through its
+            fascinating displays of Indian craftsmanship and cultural heritage.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Bus on Rent in Pune</h5>
-          <p>Shree Travels offers 17-seater buses for rent in Pune, perfect for medium-sized groups. Whether you’re
-            going on a local trip or a corporate event, our 17-seater buses provide comfortable seating and modern
-            amenities to ensure a pleasant journey. Book today for your next group outing.</p>
-
+          <h5>Satar Okayama Friendship Garden</h5>
+          <p>Inspired by traditional Japanese garden designs, the Satar Okayama Friendship Garden offers a peaceful
+            retreat that invites visitors to slow down and appreciate nature’s beauty. With its lush greenery, serene
+            ponds, and well-maintained paths, this garden is an ideal location for a relaxing walk, a peaceful afternoon
+            picnic, or simply a moment of quiet reflection. The calm atmosphere makes it a perfect escape from the
+            city's hustle, providing an oasis of peace for nature lovers and anyone seeking tranquility.</p>
         </div>
         <div class="mt-3">
-          <h5>Rent 17 Seater for Local Trips in Pune</h5>
-          <p>Looking for a 17-seater for a local trip within Pune? Shree Travels provides convenient and affordable
-            rental options for local travel. Whether it's a sightseeing tour or a family outing, our 17-seater vehicles
-            offer comfort and space to make your journey enjoyable.</p>
-
+          <h5>Shreemant Dagdusheth Halwai Ganapati Temple</h5>
+          <p>Shreemant Dagdusheth Halwai Ganapati Temple is one of Satar’s most revered temples, famous for its
+            beautiful idol of Lord Ganesh, which is adorned with gold and precious stones. The temple is not only a
+            center of spiritual devotion but also a stunning example of Maratha-era architecture. Thousands of visitors
+            flock to the temple annually, especially during the Ganesh Chaturthi festival, to witness its elaborate
+            rituals and seek blessings. The temple's vibrant atmosphere, combined with its intricate architecture, makes
+            it a place of both spiritual reverence and architectural splendor.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Bus Rate per km in Pune</h5>
-          <p>Shree Travels offers competitive pricing for 17-seater bus rentals in Pune. You only pay for the distance
-            you travel, ensuring a transparent and cost-effective pricing structure. Whether you're booking for a few
-            hours or a full day, our rates per kilometer offer great value for your group.</p>
-
+          <h5>Fergusson College</h5>
+          <p>Founded in 1885, Fergusson College is a historical landmark in Satar, renowned for its colonial-era
+            architecture and its contribution to India's academic excellence. The college campus is a beautiful blend of
+            lush greenery and elegant buildings, making it an ideal spot for a quiet stroll. It has educated generations
+            of influential scholars, and its legacy in Satar’s academic history remains strong. The college is not just
+            a place of learning but also a symbol of Satar's historical and educational significance.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Tempo Traveller for Group Events</h5>
-          <p>For group events in Pune, the 17-seater Tempo Traveller is an excellent choice. Spacious and well-equipped,
-            it provides a comfortable ride for corporate events, family gatherings, weddings, and more. Shree Travels
-            offers easy booking and reliable service for all types of group events.</p>
-
+          <h5>Khadakwasla Dam</h5>
+          <p>Located just a short drive from Satar, Khadakwasla Dam offers stunning views of the reservoir and the
+            surrounding hills, making it a popular destination for nature lovers and families. The dam is a peaceful
+            retreat, ideal for a relaxing day out. Whether you’re enjoying a picnic by the water, taking a leisurely
+            walk along its banks, or simply soaking in the serene atmosphere, Khadakwasla Dam provides a perfect setting
+            to unwind and enjoy the natural beauty of the region.</p>
         </div>
         <div class="mt-3">
-          <h5>Rent 17 Seater for Outstation Trips from Pune</h5>
-          <p>Rent a 17-seater vehicle for your next outstation trip from Pune. Whether you’re traveling to
-            Mahabaleshwar, Shirdi, or beyond, the 17-seater Tempo Traveller is the ideal vehicle for long-distance
-            travel. Enjoy a comfortable and spacious journey with modern amenities on your outstation trip.</p>
-
+          <h5>Luxury Force Urbania Hire in Satar</h5>
+          <p>For a luxurious and comfortable journey, rent the Force Urbania in Satar. Known for its spacious interiors
+            and modern amenities, the Force Urbania is perfect for both short and long trips. Whether it’s for corporate
+            travel, group outings, or special events, Shree Travels ensures a smooth and elegant experience.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater Bus Rental in Pune for Corporate Events</h5>
-          <p>Shree Travels provides 17-seater bus rentals in Pune for corporate events. Whether it’s a team-building
-            activity, conference, or corporate outing, our 17-seater buses are well-maintained and equipped for a
-            comfortable journey. Book your bus rental for a hassle-free corporate travel experience.</p>
-
+          <h5>13 Seater Force Urbania on Rent in Satar</h5>
+          <p>If you're looking for a smaller group travel option, the 13-seater Force Urbania is available for rent in
+            Satar. With its compact size and luxury features, it’s perfect for family trips, small corporate events, or
+            private gatherings. Book your 13-seater Force Urbania today with Shree Travels.</p>
         </div>
         <div class="mt-3">
-          <h5>17 Seater On Rent In Pune Contact Number</h5>
-          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient 17 Seater On Rent In Pune. We ensure a
+          <h5>17 Seater Force Urbania on Rent in Satar</h5>
+          <p>The 17-seater Force Urbania is a great choice for medium to large groups traveling together in Satar.
+            Spacious and comfortable, it is designed to provide a smooth ride for groups on any occasion, from corporate
+            trips to family gatherings. Rent your 17-seater Force Urbania with Shree Travels for a hassle-free journey.
+          </p>
+        </div>
+        <div class="mt-3">
+          <h5>Force Urbania on Rent for Outstation in Satar</h5>
+          <p>Shree Travels offers the Force Urbania for outstation trips from Satar. With ample space and comfortable
+            seating, it’s the ideal vehicle for long-distance travel to destinations like Mahabaleshwar, Shirdi, and
+            beyond. Experience a stress-free and relaxing outstation journey with a Force Urbania.</p>
+        </div>
+        <div class="mt-3">
+          <h5>Satar to Mahabaleshwar Urbania on Rent</h5>
+          <p>Rent the Urbania for your trip from Satar to Mahabaleshwar. With its spacious interiors and luxurious
+            features, the Urbania ensures that your journey through the scenic Western Ghats is comfortable and
+            enjoyable. Shree Travels offers competitive rates and a seamless booking process.</p>
+        </div>
+        <div class="mt-3">
+          <h5>Satar to Shirdi Urbania on Rent</h5>
+          <p>Book the Urbania for your pilgrimage journey from Satar to Shirdi. With spacious seating, air conditioning,
+            and ample space for luggage, the Urbania offers a comfortable and relaxing ride for your spiritual trip.
+            Choose Shree Travels for an affordable and reliable Shirdi trip.</p>
+        </div>
+        <div class="mt-3">
+          <h5>Satar to Lonavala Urbania on Rent</h5>
+          <p>Planning a trip to Lonavala from Satar? Rent the Urbania for a comfortable ride. The spacious vehicle
+            offers plenty of room for your group and luggage, making it the ideal choice for trips to popular
+            destinations like Lonavala. Shree Travels guarantees a smooth, enjoyable ride.</p>
+        </div>
+        <div class="mt-3">
+          <h5>Urbania on Rent in Kothrud, Satar</h5>
+          <p>For those in Kothrud, Satar, Shree Travels offers convenient Urbania rentals. Whether you need the vehicle
+            for city travel, group outings, or corporate events, the Urbania’s luxury and spacious interiors make it the
+            perfect choice. Book your Urbania with us for a comfortable ride around Satar.</p>
+        </div>
+        <div class="mt-3">
+          <h5>Urbania On Rent In Satar Contact Number</h5>
+          <p>Contact Shree Travels at +91 7875774499 for prompt and efficient Urbania On Rent In Satar. We ensure a
             smooth and enjoyable ride for all our customers.</p>
-
         </div>
-
-
 
         <table class="table table-responsive Border-key my-4 fade-in-on-scroll">
           <tbody>
             <tr class="fw-bold">
-              <td>17 Seater Tempo Traveller on Rent in Pune</td>
-              <td>- 17 Seater Bus on Rent in Pune</td>
+              <td>Luxury Force Urbania on Rent in Satar</td>
+              <td>- 13 Seater Force Urbania on Rent in Satar</td>
             </tr>
             <tr class="fw-bold">
-              <td>Rent 17 Seater for Local Trips in Pune</td>
-              <td>- 17 Seater Bus Rate per km in Pune</td>
+              <td>17 Seater Force Urbania on Rent in Satar</td>
+              <td>- Force Urbania on Rent for Outstation in Satar</td>
             </tr>
             <tr class="fw-bold">
-              <td>17 Seater Tempo Traveller for Group Events</td>
-              <td>- Rent 17 Seater for Outstation Trips from Pune</td>
+              <td>Satar to Mahabaleshwar Urbania on Rent</td>
+              <td>- Satar to Shirdi Urbania on Rent</td>
             </tr>
             <tr class="fw-bold">
-              <td>17 Seater Bus Rental in Pune for Corporate Events</td>
+              <td>Satar to Lonavala Urbania on Rent</td>
+              <td>- Urbania on Rent in Kothrud</td>
+            </tr>
+            <tr class="fw-bold">
+              <td>Satar Urbania on Rent in Hadapsar, Satar</td>
               <td></td>
             </tr>
-
           </tbody>
         </table>
-   
+       
+    
       </div>
       <div class="col-lg-5 col-md-5 col-sm-12">
         <div class="sidebar fade-in-on-scroll">
@@ -181,7 +193,7 @@
                 <img src="bootstrap/images/urbania-black.jpg" alt="">
               </div>
               <div class="right">
-                <p>Urbania Hire In Pune</p>
+                <p>Urbania Hire In Satar</p>
               </div>
             </a>
           </div>
@@ -191,7 +203,7 @@
                 <img src="bootstrap/images/urbania-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Urbania On Rent In Pune </p>
+                <p>Urbania On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -231,7 +243,7 @@
                 <img src="bootstrap/images/tempo-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>17 Seater On Rent In Pune </p>
+                <p>17 Seater On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -241,7 +253,7 @@
                 <img src="bootstrap/images/20-seater.jpg" alt="">
               </div>
               <div class="right">
-                <p>20 Seater On Rent In Pune </p>
+                <p>20 Seater On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -251,7 +263,7 @@
                 <img src="bootstrap/images/13-seater.jpg" alt="">
               </div>
               <div class="right">
-                <p>13 Seater On Rent In Pune </p>
+                <p>13 Seater On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -261,7 +273,7 @@
                 <img src="bootstrap/images/15-seater.webp" alt="">
               </div>
               <div class="right">
-                <p>15 Seater On Rent In Pune </p>
+                <p>15 Seater On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -271,7 +283,7 @@
                 <img src="bootstrap/images/10-seater-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>10 Seater On Rent In Pune </p>
+                <p>10 Seater On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -361,7 +373,7 @@
                 <img src="bootstrap/images/Car-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Car Rental Services In Pune </p>
+                <p>Car Rental Services In Satar </p>
               </div>
             </a>
           </div>
@@ -371,7 +383,7 @@
                 <img src="bootstrap/images/innova-crysta.png" alt="">
               </div>
               <div class="right">
-                <p>Innova Crysta On Rent In Pune </p>
+                <p>Innova Crysta On Rent In Satar </p>
               </div>
             </a>
           </div>
@@ -381,7 +393,7 @@
                 <img src="bootstrap/images/tempo-rent.jpg" alt="">
               </div>
               <div class="right">
-                <p>Tempo Traveller On Rent in Pune </p>
+                <p>Tempo Traveller On Rent in Satar </p>
               </div>
             </a>
           </div>
@@ -391,7 +403,7 @@
                 <img src="bootstrap/images/tempo-mahabhaleshwar.webp" alt="">
               </div>
               <div class="right">
-                <p>Pune to Mahabaleshwar Tempo Traveller on Rent </p>
+                <p>Satar to Mahabaleshwar Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -401,7 +413,7 @@
                 <img src="bootstrap/images/tempo-bheemashankar.jpg" alt="">
               </div>
               <div class="right">
-                <p>Pune to Bhimashankar Tempo Traveller on Rent </p>
+                <p>Satar to Bhimashankar Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -411,7 +423,7 @@
                 <img src="bootstrap/images/tempo-shirdi.png" alt="">
               </div>
               <div class="right">
-                <p>Pune to Shirdi Tempo Traveller on Rent </p>
+                <p>Satar to Shirdi Tempo Traveller on Rent </p>
               </div>
             </a>
           </div>
@@ -421,7 +433,7 @@
                 <img src="bootstrap/images/tempo-ashtavinayak.png" alt="">
               </div>
               <div class="right">
-                <p>Pune to Ashtavinayak Darshan Tempo Traveller </p>
+                <p>Satar to Ashtavinayak Darshan Tempo Traveller </p>
               </div>
             </a>
           </div>
@@ -492,9 +504,8 @@
           <div class="side-contact-card">
             <h4>Address</h4>
             <i class="fas fa-home"></i>
-            <a href="" class="text-white d-block"> Shree Travels <br>Shop no 12, Barate complex near,<br>Vandevi
-              temple
-              opp Ashok Samrat <br>school, Karve Nagar, Pune 411052.</a>
+            <a href="" class="text-white d-block"> Shree Travels <br>Shop no 12, Barate complex near,<br>Vandevi temple
+              opp Ashok Samrat <br>school, Karve Nagar, Satar 411052.</a>
 
 
           </div>
@@ -505,7 +516,7 @@
     </div>
     <h4 class="text-left">Non AC Bus Fare</h4>
     <div class="table-responsive">
-  
+
       <table class="table-og">
         <thead>
           <tr class="table-row">
@@ -614,7 +625,7 @@
     </div>
     <h4 class="margin-top text-left">AC Bus Fare</h4>
     <div class="table-responsive">
-  
+
       <table class="table-og">
         <thead>
           <tr class="table-row">
@@ -787,79 +798,72 @@
   </div>
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-12">
- 
         <div class="fade-in-on-scroll">
-          <h1 class="mb-3">Why Choose Shree Travels for 17 Seater on Rent in Pune</h1>
+          <h1 class="mb-3">Why Choose Shree Travels for Urbania On Rent in Satar</h1>
           <div>
             <h5 class="text-dark">Reliable and On-Time Service</h5>
-            <p>At Shree Travels, we understand the importance of punctuality. Whether you're planning a group outing or
-              a corporate event, our drivers ensure timely pickups and drop-offs, making sure your journey in and around
-              Pune is smooth and on schedule.</p>
+            <p>At Shree Travels, we understand the importance of punctuality. Whether you need the Urbania on rent for a
+              business trip or leisure travel, our drivers ensure timely pickups and drop-offs, making sure your journey
+              in Satar is smooth and on schedule.</p>
 
           </div>
           <div>
-            <h5 class="text-dark">Spacious and Comfortable Vehicles</h5>
-            <p>Our 17-seater vehicles are designed for comfort and convenience. With ample space for passengers and
-              luggage, comfortable seating, and air conditioning, you and your group will enjoy a relaxed and pleasant
-              ride.</p>
+            <h5 class="text-dark">Comfortable and Spacious Vehicles</h5>
+            <p>Our Urbania vehicles offer plenty of space and comfort for both small and large groups. With ample
+              legroom, air conditioning, and comfortable seating, your trip around Satar will be pleasant and relaxing.
+            </p>
 
           </div>
           <div>
             <h5 class="text-dark">Experienced and Professional Drivers</h5>
-            <p>Our drivers are highly experienced and familiar with the routes in and around Pune. They ensure a safe
-              and smooth journey while also providing helpful tips on the best routes for your trip, whether it’s a
-              local ride or an outstation journey.</p>
+            <p>Our drivers are highly experienced and familiar with Satar’s routes. They ensure your ride is smooth and
+              safe while also offering you helpful guidance on the best routes, even in busy traffic.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Affordable and Transparent Pricing</h5>
-            <p>Shree Travels offers competitive pricing for 17-seater rentals in Pune. We follow a transparent pricing
-              model with no hidden charges, so you always know exactly what you’re paying for, ensuring you get the best
-              value for your money.</p>
+            <p>Shree Travels offers competitive rates for Urbania rentals in Satar. With no hidden charges, we ensure
+              that our pricing is transparent and affordable, providing great value for your money.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Safe and Comfortable Journey</h5>
-            <p>Your safety is our top priority. Our 17-seater vehicles are regularly maintained, equipped with GPS, and
-              driven by professional drivers who follow all safety protocols. This ensures a safe and comfortable
-              journey for everyone in your group.</p>
+            <p>Your safety is our top priority. All our Urbania vehicles are regularly maintained and come equipped with
+              safety features like GPS and airbags. Our drivers ensure a secure and comfortable ride every time.</p>
 
           </div>
           <div>
             <h5 class="text-dark">24/7 Availability</h5>
-            <p>Whether you're planning an early morning trip or a late-night return, Shree Travels is available around
-              the clock. Our 24/7 service ensures that you can book a 17-seater rental at any time, and our customer
-              service team is always available to assist you.</p>
+            <p>Shree Travels offers Urbania rental services 24/7. Whether it’s an early morning ride or a late-night
+              trip, we are available around the clock to cater to your travel needs.</p>
 
           </div>
           <div>
             <h5 class="text-dark">Hassle-Free Booking Process</h5>
-            <p>Booking a 17-seater rental with Shree Travels is quick and easy. You can make a booking via our website,
-              mobile app, or simply call our customer service team to arrange your ride. We strive to make the booking
-              process as smooth and convenient as possible.</p>
+            <p>Booking an Urbania with Shree Travels is simple. You can book online via our website or mobile app, or
+              call our customer service team for assistance. We ensure a fast and hassle-free booking experience.</p>
 
           </div>
           <div>
-            <h5 class="text-dark">Customized Travel Packages</h5>
-            <p>Whether you are planning a group trip within Pune or an outstation excursion, Shree Travels offers
-              customized travel packages. We can help you plan the best route and ensure that you make the most of your
-              journey.</p>
+            <h5 class="text-dark">Customized Tours and Travel Packages</h5>
+            <p>If you're looking to explore Satar and its surroundings, Shree Travels offers customized travel packages.
+              Our drivers will guide you to the best spots, ensuring you get the most out of your trip while enjoying
+              the comfort of the Urbania.</p>
 
           </div>
           <div class="fade-in-on-scroll">
-            <h5 class="fs-2 text-dark">fAQS 17 Seater on Rent in Pune For Shree Travels</h5>
+            <h5 class="fs-2 text-dark">fAQS Urbania Hire in Satar For Shree Travels</h5>
             <div class="accordion" id="accordionExample">
-
               <div class="accordion-item">
                 <h2 class="accordion-header" id="heading1">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-                    How can I rent a 17-seater in Pune with Shree Travels?
+                    How can I rent an Urbania in Satar with Shree Travels?
                   </button>
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    You can rent a 17-seater easily by booking online through our website or mobile app. Alternatively,
-                    you can call our customer service team for assistance with your booking.
+                    You can easily book an Urbania on rent through our website, mobile app, or by calling our customer
+                    service team for quick assistance.
                   </div>
                 </div>
               </div>
@@ -869,182 +873,184 @@
                 <h2 class="accordion-header" id="heading2">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapse2">
-                    Are the drivers experienced for 17-seater rentals?
+                    Are the drivers experienced for Urbania rentals?
                   </button>
                 </h2>
                 <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Yes, all our drivers are highly experienced and familiar with both local and outstation routes in
-                    and around Pune. They ensure that your group enjoys a smooth, safe, and enjoyable ride.
-                  </div>
-                </div>
-
-                <!-- Section 3 -->
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading3">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse3">
-                      What types of 17-seater vehicles are available for rent?
-                    </button>
-                  </h2>
-                  <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      We offer well-maintained, comfortable, and spacious 17-seater vehicles, perfect for group travel.
-                      These vehicles come with air conditioning and ample space for passengers and luggage.
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Section 4 -->
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading4">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse4">
-                      How do I pay for my 17-seater rental?
-                    </button>
-                  </h2>
-                  <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      We offer flexible payment options, including cash, credit/debit cards, and online payment through
-                      our mobile app for your convenience.
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Section 5 -->
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading5">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse5">
-                      Can I book a round trip with a 17-seater rental?
-                    </button>
-                  </h2>
-                  <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Yes, you can book a round trip. Just provide the return details during booking, and we will
-                      arrange the complete journey for you.
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Section 6 -->
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading6">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse6">
-                      Are there any extra charges for waiting or detours?
-                    </button>
-                  </h2>
-                  <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Additional charges may apply for waiting time or detours, depending on the nature of your trip.
-                      However, all extra charges will be clearly communicated to you upfront to maintain transparency.
-                    </div>
-                  </div>
-                </div>
-
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading7">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse7">
-                      Can I hire a 17-seater for sightseeing in Pune or nearby areas?
-                    </button>
-                  </h2>
-                  <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Yes, we offer customized sightseeing tours. Our drivers will ensure that you visit all the top
-                      attractions in Pune, such as Shaniwar Wada, Aga Khan Palace, and more.
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading7">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse8">
-                      What is the luggage allowance for a 17-seater rental?
-                    </button>
-                  </h2>
-                  <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Our 17-seater vehicles have ample space for standard luggage. If you have special luggage
-                      requirements or extra bags, please inform us during booking, and we will accommodate your needs.
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading7">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse9">
-                      Is Shree Travels available for corporate travel with a 17-seater?
-                    </button>
-                  </h2>
-                  <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Yes, we offer corporate travel solutions, including transport for meetings, events, conferences,
-                      and employee outings. Contact us for customized packages to suit your business needs.
-                    </div>
-                  </div>
-                </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="heading7">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapse10">
-                      Why should I choose Shree Travels for a 17-seater rental in Pune?
-                    </button>
-                  </h2>
-                  <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                      Shree Travels is known for its reliable service, experienced drivers, well-maintained vehicles,
-                      and transparent pricing. We ensure a safe, comfortable, and hassle-free experience for all your
-                      group travel needs in Pune.
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-            <div class="fade-in-on-scroll">
-              <h1 class="mt-4">Testimonial 17 Seater on Rent in Pune for Shree Travels</h1>
-
-              <div class="testimonial-left position-relative test-card ">
-
-                <h2 class="fw-bold">What Our Customer's Say</h2>
-
-                <div class="swiper mySwiper">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide testimonial-slide">
-                      <p>Our corporate team needed a 17-seater for a business event in Pune, and Shree Travels delivered
-                        excellent service. The vehicle was well-maintained, and the driver was punctual and
-                        professional. I’ll definitely use their service again.</p>
-                      <h4 class="text-center">Ms. Neha Gupta</h4>
-                      <div class="stars text-center">★ ★ ★ ★ ★</div>
-                    </div>
-                    <div class="swiper-slide testimonial-slide">
-                      <p>We rented a 17-seater for a family trip to a nearby destination, and it was fantastic. The
-                        vehicle was spacious, comfortable, and clean, and the driver was courteous and professional. I
-                        highly recommend Shree Travels for anyone in need of group travel in Pune.</p>
-                      <h4 class="text-center">Mr. Rajesh Patil</h4>
-                      <div class="stars text-center">★ ★ ★ ★ ★</div>
-                    </div>
-
-                  </div>
-                  <div class="swiper-pagination position-relative mt-3"></div>
+                    Yes, our drivers are highly experienced and familiar with Satar’s routes. They ensure your journey
+                    is safe, smooth, and enjoyable. </div>
                 </div>
               </div>
-            </div>
-            <div class="contact-section mb-0 fade-in-on-scroll">
-              <h2 class="fw-bold mt-0">17 Seater on Rent in Pune Contact Number</h2>
-              <p>For booking inquiries or any assistance, please feel free to contact us:</p>
-              <div class="contact-info">
-                <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
-                <p><i class="fas fa-phone icon"></i><span>Email:</span> <a href="">+91 7620411277</a></p>
-                <p><i class="fas fa-envelope icon"></i><span>Email:</span> <a href="">pmargale83@gmail.com</a></p>
 
+              <!-- Section 3 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading3">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse3">
+                    What types of Urbania vehicles are available for rent?
+                  </button>
+                </h2>
+                <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    We offer Urbania vehicles that can accommodate small and large groups. Whether you're traveling
+                    alone or with a group, our vehicles offer ample space and comfort.
+                  </div>
+                </div>
               </div>
-            </div>
 
+              <!-- Section 4 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading4">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse4">
+                    How do I pay for my Urbania hire?
+                  </button>
+                </h2>
+                <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    We offer multiple payment options, including cash, credit/debit cards, and online payment via our
+                    mobile app for your convenience.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 5 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading5">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse5">
+                    Can I book a round trip with Urbania?
+                  </button>
+                </h2>
+                <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, you can book a round trip. Simply share your return details when booking, and we'll take care
+                    of the rest.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Section 6 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading6">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse6">
+                    Are there any extra charges for waiting or detours?
+                  </button>
+                </h2>
+                <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Additional charges may apply for waiting time or detours, but all charges will be communicated
+                    upfront to ensure transparency.
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse7">
+                    Can I hire an Urbania for a sightseeing Satar?
+                  </button>
+                </h2>
+                <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, Shree Travels offers customized sightseeing tours in Satar. Our drivers will ensure that you
+                    visit the top tourist spots comfortably.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse8">
+                    What is the luggage allowance for an Urbania rental?
+                  </button>
+                </h2>
+                <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Standard luggage can be carried in our Urbania vehicles. If you have extra luggage or special
+                    requirements, please inform us during booking, and we'll accommodate your needs.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse9">
+                    Is Shree Travels available for corporate travel in Satar?
+                  </button>
+                </h2>
+                <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Yes, we provide corporate travel services for business meetings, events, and team outings. Contact
+                    us
+                    to discuss tailored packages for your corporate needs.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse10">
+                    Why should I choose Shree Travels for Urbania hire in Satar?
+                  </button>
+                </h2>
+                <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Shree Travels is known for reliable service, experienced drivers, well-maintained Urbania vehicles,
+                    and transparent pricing. Our goal is to provide a safe, comfortable, and affordable travel
+                    experience
+                    in Satar.
+                  </div>
+                </div>
+              </div>
+
+            </div>
           </div>
+          <div class="fade-in-on-scroll">
+            <h1 class="mt-4">Testimonial Urbania On Rent in Satar for Shree Travels</h1>
+
+            <div class="testimonial-left position-relative test-card ">
+
+              <h2 class="fw-bold">What Our Customer's Say</h2>
+
+              <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide testimonial-slide">
+                    <p>We hired an Urbania for a family trip around Satar, and it was perfect! The vehicle was
+                      comfortable, and our driver made sure we visited all the best spots in Satar. Excellent service,
+                      and I'll definitely use Shree Travels again.</p>
+                    <h4 class="text-center">Mrs. Neha Desai</h4>
+                    <div class="stars text-center">★ ★ ★ ★ ★</div>
+                  </div>
+                  <div class="swiper-slide testimonial-slide">
+                    <p>I rented an Urbania from Shree Travels for a business event in Satar, and it was a great
+                      experience! The vehicle was spacious and clean, and the driver was punctual and professional. I
+                      highly recommend their services for anyone in need of a reliable ride.</p>
+                    <h4 class="text-center">Mr. Ravi Kumar</h4>
+                    <div class="stars text-center">★ ★ ★ ★ ★</div>
+                  </div>
+
+                </div>
+                <div class="swiper-pagination position-relative mt-3"></div>
+              </div>
+            </div>
+          </div>
+          <div class="contact-section mb-0 fade-in-on-scroll">
+            <h2 class="fw-bold mt-0">Urbania on Rent in Satar Contact Number</h2>
+            <p>For booking inquiries or any assistance, please feel free to contact us:</p>
+            <div class="contact-info">
+              <p><i class="fas fa-phone icon"></i><span>Phone:</span> <a href="">+91 7875774499</a></p>
+              <p><i class="fas fa-phone icon"></i><span>Email:</span> <a href="">+91 7620411277</a></p>
+              <p><i class="fas fa-envelope icon"></i><span>Email:</span> <a href="">pmargale83@gmail.com</a></p>
+
+            </div>
+          </div>
+
         </div>
+
       </div>
     </div>
   </div>
