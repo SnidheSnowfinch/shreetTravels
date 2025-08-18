@@ -1640,6 +1640,9 @@ footer ul li {
 footer ul li  a{
   color: #ffffff;
 }
+footer ul li  a:hover{
+  color: #f7894ae1;
+}
 .fa-car {
   color: #fe7524;
 }
